@@ -53,13 +53,24 @@ This will:
 - PowerShell (Windows)
 - ffprobe (for audio duration extraction)
 
+## GitHub Pages Deployment
+
+Deploy the project to GitHub Pages manually:
+
+1. Go to **Settings → Pages** in your GitHub repository
+2. Set Source to **GitHub Actions**
+3. Navigate to **Actions** tab → Select "Deploy to GitHub Pages"
+4. Click **Run workflow** button
+
+The site will be available at: `https://rickseven.github.io/quran-audio/`
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Repository Owner
 
-- **Rick Seven** (@rickseven)
+- **Moh Eric** (@rickseven)
 - Email: maseric7@gmail.com
 
 ## License

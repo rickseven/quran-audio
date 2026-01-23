@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quran Audio Collection</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+        h1 { color: #2c3e50; }
+        .reciter { margin: 20px 0; padding: 15px; background: #f8f9fa; border-radius: 5px; }
+        audio { width: 100%; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Quran Audio Collection</h1>
+    <div id="content">Loading...</div>
+    <script>
+        fetch('quran-data.json')
+            .then(r => r.json())
+            .then(data => {
+                const reciters = {};
+                data.forEach(item => {
+                    if (!reciters[item.reciter]) reciters[item.reciter] = [];
+                    reciters[item.reciter].push(item);
+                });
+                document.getElementById('content').innerHTML = Object.entries(reciters)
+                    .map(([reciter, surahs]) => `
+                        <div class="reciter">
+                            <h2>${reciter}</h2>
+                            ${surahs.map(s => `<div><strong>${s.surah}</strong> (${Math.floor(s.duration/60)}m)</div>`).join('')}
+                        </div>
+                    `).join('');
+            });
+    </script>
+</body>
+</html>
