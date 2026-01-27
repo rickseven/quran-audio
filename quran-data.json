@@ -1,140 +1,140 @@
 ﻿[
-    {
-        "surah":  "Al-Baqarah",
-        "reciter":  "Mohmed Hesham",
-        "duration":  8938.43,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Haqqah",
-        "reciter":  "Mohmed Hesham",
-        "duration":  470.05,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Hijr",
-        "reciter":  "Mohmed Hesham",
-        "duration":  1053.53,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Hujuraat",
-        "reciter":  "Mohmed Hesham",
-        "duration":  600.99,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Insan",
-        "reciter":  "Mohmed Hesham",
-        "duration":  395.77,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Kahf",
-        "reciter":  "Mohmed Hesham",
-        "duration":  2422.92,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Mulk",
-        "reciter":  "Mohmed Hesham",
-        "duration":  3915.53,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Muzzammil",
-        "reciter":  "Mohmed Hesham",
-        "duration":  308.38,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Qalam",
-        "reciter":  "Mohmed Hesham",
-        "duration":  496.95,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Qamar",
-        "reciter":  "Mohmed Hesham",
-        "duration":  510.03,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Qiyamah",
-        "reciter":  "Mohmed Hesham",
-        "duration":  267.37,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Al-Waqiah",
-        "reciter":  "Mohmed Hesham",
-        "duration":  829.47,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "An-Naba",
-        "reciter":  "Mohmed Hesham",
-        "duration":  357.97,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "An-Najm",
-        "reciter":  "Mohmed Hesham",
-        "duration":  492.73,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "An-Naziat",
-        "reciter":  "Mohmed Hesham",
-        "duration":  304.3,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Ar-Rahman",
-        "reciter":  "Mohmed Hesham",
-        "duration":  729.65,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Ash-Shuara",
-        "reciter":  "Mohmed Hesham",
-        "duration":  2074.18,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "At-Tahreem",
-        "reciter":  "Mohmed Hesham",
-        "duration":  440.21,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Luqman",
-        "reciter":  "Mohmed Hesham",
-        "duration":  894.73,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Maryam",
-        "reciter":  "Mohmed Hesham",
-        "duration":  1661.95,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Qaf",
-        "reciter":  "Mohmed Hesham",
-        "duration":  610.21,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Ya-Sin",
-        "reciter":  "Mohmed Hesham",
-        "duration":  1026.57,
-        "is_recommend":  false
-    },
-    {
-        "surah":  "Yusuf",
-        "reciter":  "Mohmed Hesham",
-        "duration":  2642.26,
-        "is_recommend":  false
-    }
+  {
+    "surah": "Al-Baqarah",
+    "reciter": "Mohmed Hesham",
+    "duration": 8938.43,
+    "is_recommend": true
+  },
+  {
+    "surah": "Al-Haqqah",
+    "reciter": "Mohmed Hesham",
+    "duration": 470.05,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Hijr",
+    "reciter": "Mohmed Hesham",
+    "duration": 1053.53,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Hujuraat",
+    "reciter": "Mohmed Hesham",
+    "duration": 600.99,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Insan",
+    "reciter": "Mohmed Hesham",
+    "duration": 395.77,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Kahf",
+    "reciter": "Mohmed Hesham",
+    "duration": 2422.92,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Mulk",
+    "reciter": "Mohmed Hesham",
+    "duration": 3915.53,
+    "is_recommend": true
+  },
+  {
+    "surah": "Al-Muzzammil",
+    "reciter": "Mohmed Hesham",
+    "duration": 308.38,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Qalam",
+    "reciter": "Mohmed Hesham",
+    "duration": 496.95,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Qamar",
+    "reciter": "Mohmed Hesham",
+    "duration": 510.03,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Qiyamah",
+    "reciter": "Mohmed Hesham",
+    "duration": 267.37,
+    "is_recommend": false
+  },
+  {
+    "surah": "Al-Waqiah",
+    "reciter": "Mohmed Hesham",
+    "duration": 829.47,
+    "is_recommend": false
+  },
+  {
+    "surah": "An-Naba",
+    "reciter": "Mohmed Hesham",
+    "duration": 357.97,
+    "is_recommend": false
+  },
+  {
+    "surah": "An-Najm",
+    "reciter": "Mohmed Hesham",
+    "duration": 492.73,
+    "is_recommend": false
+  },
+  {
+    "surah": "An-Naziat",
+    "reciter": "Mohmed Hesham",
+    "duration": 304.3,
+    "is_recommend": false
+  },
+  {
+    "surah": "Ar-Rahman",
+    "reciter": "Mohmed Hesham",
+    "duration": 729.65,
+    "is_recommend": false
+  },
+  {
+    "surah": "Ash-Shuara",
+    "reciter": "Mohmed Hesham",
+    "duration": 2074.18,
+    "is_recommend": false
+  },
+  {
+    "surah": "At-Tahreem",
+    "reciter": "Mohmed Hesham",
+    "duration": 440.21,
+    "is_recommend": false
+  },
+  {
+    "surah": "Luqman",
+    "reciter": "Mohmed Hesham",
+    "duration": 894.73,
+    "is_recommend": false
+  },
+  {
+    "surah": "Maryam",
+    "reciter": "Mohmed Hesham",
+    "duration": 1661.95,
+    "is_recommend": true
+  },
+  {
+    "surah": "Qaf",
+    "reciter": "Mohmed Hesham",
+    "duration": 610.21,
+    "is_recommend": false
+  },
+  {
+    "surah": "Ya-Sin",
+    "reciter": "Mohmed Hesham",
+    "duration": 1026.57,
+    "is_recommend": true
+  },
+  {
+    "surah": "Yusuf",
+    "reciter": "Mohmed Hesham",
+    "duration": 2642.26,
+    "is_recommend": true
+  }
 ]
