@@ -3,138 +3,161 @@
     "surah": "Al-Baqarah",
     "reciter": "Mohmed Hesham",
     "duration": 8938.43,
-    "is_recommend": true
+    "is_recommend": true,
+    "file": "/mohmed-hesham/Al-Baqarah.opus"
   },
   {
     "surah": "Al-Haqqah",
     "reciter": "Mohmed Hesham",
     "duration": 470.05,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Haqqah.opus"
   },
   {
     "surah": "Al-Hijr",
     "reciter": "Mohmed Hesham",
     "duration": 1053.53,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Hijr.opus"
   },
   {
     "surah": "Al-Hujuraat",
     "reciter": "Mohmed Hesham",
     "duration": 600.99,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Hujuraat.opus"
   },
   {
     "surah": "Al-Insan",
     "reciter": "Mohmed Hesham",
     "duration": 395.77,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Insan.opus"
   },
   {
     "surah": "Al-Kahf",
     "reciter": "Mohmed Hesham",
     "duration": 2422.92,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Kahf.opus"
   },
   {
     "surah": "Al-Mulk",
     "reciter": "Mohmed Hesham",
     "duration": 3915.53,
-    "is_recommend": true
+    "is_recommend": true,
+    "file": "/mohmed-hesham/Al-Mulk.opus"
   },
   {
     "surah": "Al-Muzzammil",
     "reciter": "Mohmed Hesham",
     "duration": 308.38,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Muzzammil.opus"
   },
   {
     "surah": "Al-Qalam",
     "reciter": "Mohmed Hesham",
     "duration": 496.95,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Qalam.opus"
   },
   {
     "surah": "Al-Qamar",
     "reciter": "Mohmed Hesham",
     "duration": 510.03,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Qamar.opus"
   },
   {
     "surah": "Al-Qiyamah",
     "reciter": "Mohmed Hesham",
     "duration": 267.37,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Qiyamah.opus"
   },
   {
     "surah": "Al-Waqiah",
     "reciter": "Mohmed Hesham",
     "duration": 829.47,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Al-Waqiah.opus"
   },
   {
     "surah": "An-Naba",
     "reciter": "Mohmed Hesham",
     "duration": 357.97,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/An-Naba.opus"
   },
   {
     "surah": "An-Najm",
     "reciter": "Mohmed Hesham",
     "duration": 492.73,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/An-Najm.opus"
   },
   {
     "surah": "An-Naziat",
     "reciter": "Mohmed Hesham",
     "duration": 304.3,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/An-Naziat.opus"
   },
   {
     "surah": "Ar-Rahman",
     "reciter": "Mohmed Hesham",
     "duration": 729.65,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Ar-Rahman.opus"
   },
   {
     "surah": "Ash-Shuara",
     "reciter": "Mohmed Hesham",
     "duration": 2074.18,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Ash-Shuara.opus"
   },
   {
     "surah": "At-Tahreem",
     "reciter": "Mohmed Hesham",
     "duration": 440.21,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/At-Tahreem.opus"
   },
   {
     "surah": "Luqman",
     "reciter": "Mohmed Hesham",
     "duration": 894.73,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Luqman.opus"
   },
   {
     "surah": "Maryam",
     "reciter": "Mohmed Hesham",
     "duration": 1661.95,
-    "is_recommend": true
+    "is_recommend": true,
+    "file": "/mohmed-hesham/Maryam.opus"
   },
   {
     "surah": "Qaf",
     "reciter": "Mohmed Hesham",
     "duration": 610.21,
-    "is_recommend": false
+    "is_recommend": false,
+    "file": "/mohmed-hesham/Qaf.opus"
   },
   {
     "surah": "Ya-Sin",
     "reciter": "Mohmed Hesham",
     "duration": 1026.57,
-    "is_recommend": true
+    "is_recommend": true,
+    "file": "/mohmed-hesham/Ya-Sin.opus"
   },
   {
     "surah": "Yusuf",
     "reciter": "Mohmed Hesham",
     "duration": 2642.26,
-    "is_recommend": true
+    "is_recommend": true,
+    "file": "/mohmed-hesham/Yusuf.opus"
   }
 ]
