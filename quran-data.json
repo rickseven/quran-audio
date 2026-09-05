@@ -4,6 +4,7 @@
     "reciter": "Mohmed Hesham",
     "duration": 8938.43,
     "is_recommend": true,
+    "recommend_order": 1,
     "file": "/mohmed-hesham/Al-Baqarah.opus"
   },
   {
@@ -46,6 +47,7 @@
     "reciter": "Mohmed Hesham",
     "duration": 3915.53,
     "is_recommend": true,
+    "recommend_order": 2,
     "file": "/mohmed-hesham/Al-Mulk.opus"
   },
   {
@@ -137,6 +139,7 @@
     "reciter": "Mohmed Hesham",
     "duration": 1661.95,
     "is_recommend": true,
+    "recommend_order": 3,
     "file": "/mohmed-hesham/Maryam.opus"
   },
   {
@@ -151,6 +154,7 @@
     "reciter": "Mohmed Hesham",
     "duration": 1026.57,
     "is_recommend": true,
+    "recommend_order": 4,
     "file": "/mohmed-hesham/Ya-Sin.opus"
   },
   {
@@ -158,6 +162,7 @@
     "reciter": "Mohmed Hesham",
     "duration": 2642.26,
     "is_recommend": true,
+    "recommend_order": 5,
     "file": "/mohmed-hesham/Yusuf.opus"
   }
 ]
