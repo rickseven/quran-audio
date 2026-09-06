@@ -1,0 +1,3100 @@
+{
+  "title": "Remember Your Sins",
+  "audio": "/unknown/Remember-Your-Sins.opus",
+  "lang": "ar",
+  "dir": "rtl",
+  "languages": [
+    { "code": "id", "name": "Indonesia", "dir": "ltr" },
+    { "code": "en", "name": "English", "dir": "ltr" }
+  ],
+  "lines": [
+    {
+      "start": 16,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah, tiada tuhan selain Allah",
+        "en": "There is no god but Allah, there is no god but Allah"
+      }
+    },
+    {
+      "start": 27,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah",
+        "en": "There is no god but Allah"
+      }
+    },
+    {
+      "start": 33,
+      "text": "مُحَمَّدٌ رَسُولُ اللَّهِ، سُبْحَانَ اللَّهِ",
+      "translation": {
+        "id": "Muhammad utusan Allah. Maha Suci Allah",
+        "en": "Muhammad is the Messenger of Allah. Glory be to Allah"
+      }
+    },
+    {
+      "start": 43,
+      "text": "وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Segala puji bagi Allah, dan tiada tuhan selain Allah",
+        "en": "and praise be to Allah, and there is no god but Allah"
+      }
+    },
+    {
+      "start": 54,
+      "text": "وَاللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translation": {
+        "id": "Allah Maha Besar. Maha Suci Allah dengan memuji-Nya",
+        "en": "and Allah is the Greatest. Glory be to Allah and with His praise"
+      }
+    },
+    {
+      "start": 61,
+      "text": "سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "translation": {
+        "id": "Maha Suci Allah Yang Maha Agung",
+        "en": "Glory be to Allah the Magnificent"
+      }
+    },
+    {
+      "start": 68,
+      "text": "سُبْحَانَ اللَّهِ مِلْءَ الْمِيزَانِ، سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ",
+      "translation": {
+        "id": "Maha Suci Allah sepenuh timbangan, Maha Suci Allah sebanyak keridhaan diri-Nya",
+        "en": "Glory be to Allah as much as fills the scale, glory be to Allah as much as pleases Him"
+      }
+    },
+    {
+      "start": 78,
+      "text": "أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+      "translation": {
+        "id": "Aku memohon ampun kepada Allah, aku memohon ampun kepada Allah Yang Maha Agung",
+        "en": "I seek forgiveness from Allah, I seek forgiveness from Allah the Magnificent"
+      }
+    },
+    {
+      "start": 85,
+      "text": "الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ",
+      "translation": {
+        "id": "Yang tiada tuhan selain Dia, Yang Maha Hidup, Yang Maha Berdiri Sendiri, dan aku bertaubat",
+        "en": "the One besides whom there is no god, the Ever-Living, the Sustainer, and I turn in repentance"
+      }
+    },
+    {
+      "start": 92,
+      "text": "إِلَيْهِ، وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "kepada-Nya. Dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "to Him. And there is no power except with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 103,
+      "text": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
+      "translation": {
+        "id": "Cukuplah Allah bagiku, tiada tuhan selain Dia",
+        "en": "Allah is sufficient for me, there is no god but He"
+      }
+    },
+    {
+      "start": 110,
+      "text": "عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "translation": {
+        "id": "kepada-Nya aku bertawakal, dan Dia Tuhan Arasy yang agung",
+        "en": "in Him I put my trust, and He is the Lord of the Mighty Throne"
+      }
+    },
+    {
+      "start": 119,
+      "text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "translation": {
+        "id": "Wahai Yang Maha Hidup, wahai Yang Maha Berdiri Sendiri, dengan rahmat-Mu aku memohon pertolongan",
+        "en": "O Ever-Living, O Sustainer, by Your mercy I seek relief"
+      }
+    },
+    {
+      "start": 126,
+      "text": "أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَىٰ نَفْسِي طَرْفَةَ عَيْنٍ",
+      "translation": {
+        "id": "Perbaikilah seluruh urusanku, dan jangan serahkan aku kepada diriku sendiri sekejap mata pun",
+        "en": "Set right all my affairs, and do not leave me to myself for the blink of an eye"
+      }
+    },
+    {
+      "start": 137,
+      "text": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَىٰ سَيِّدِنَا",
+      "translation": {
+        "id": "Ya Allah, limpahkanlah selawat, salam, dan berkah kepada junjungan kami",
+        "en": "O Allah, send blessings, peace, and grace upon our master"
+      }
+    },
+    {
+      "start": 145,
+      "text": "مُحَمَّدٍ وَعَلَىٰ آلِهِ وَصَحْبِهِ",
+      "translation": {
+        "id": "Muhammad, dan kepada keluarga serta para sahabatnya",
+        "en": "Muhammad, and upon his family and companions"
+      }
+    },
+    {
+      "start": 152,
+      "text": "أَجْمَعِينَ، لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "semuanya. Tiada tuhan selain Allah",
+        "en": "all of them. There is no god but Allah"
+      }
+    },
+    {
+      "start": 159,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah, tiada tuhan selain Allah",
+        "en": "There is no god but Allah, there is no god but Allah"
+      }
+    },
+    {
+      "start": 167,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah, Muhammad utusan...",
+        "en": "There is no god but Allah, Muhammad is the Messenger..."
+      }
+    },
+    {
+      "start": 175,
+      "text": "مُحَمَّدٌ رَسُولُ اللَّهِ، سُبْحَانَ اللَّهِ سُبْحَانَ اللَّهِ",
+      "translation": {
+        "id": "Muhammad utusan Allah. Maha Suci Allah, Maha Suci Allah",
+        "en": "Muhammad is the Messenger of Allah. Glory be to Allah, glory be to Allah"
+      }
+    },
+    {
+      "start": 181,
+      "text": "وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Segala puji bagi Allah, dan tiada tuhan selain Allah",
+        "en": "and praise be to Allah, and there is no god but Allah"
+      }
+    },
+    {
+      "start": 192,
+      "text": "وَاللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translation": {
+        "id": "Allah Maha Besar. Maha Suci Allah dengan memuji-Nya",
+        "en": "and Allah is the Greatest. Glory be to Allah and with His praise"
+      }
+    },
+    {
+      "start": 199,
+      "text": "سُبْحَانَ اللَّهِ الْعَظِيمِ، سُبْحَانَ اللَّهِ مِلْءَ الْمِيزَانِ",
+      "translation": {
+        "id": "Maha Suci Allah Yang Maha Agung, Maha Suci Allah sepenuh timbangan",
+        "en": "Glory be to Allah the Magnificent, glory be to Allah as much as fills the scale"
+      }
+    },
+    {
+      "start": 211,
+      "text": "سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ",
+      "translation": {
+        "id": "Maha Suci Allah sebanyak keridhaan diri-Nya",
+        "en": "Glory be to Allah as much as pleases Him"
+      }
+    },
+    {
+      "start": 215,
+      "text": "أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+      "translation": {
+        "id": "Aku memohon ampun kepada Allah, aku memohon ampun kepada Allah Yang Maha Agung",
+        "en": "I seek forgiveness from Allah, I seek forgiveness from Allah the Magnificent"
+      }
+    },
+    {
+      "start": 223,
+      "text": "الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ",
+      "translation": {
+        "id": "Yang tiada tuhan selain Dia, Yang Maha Hidup, Yang Maha Berdiri Sendiri, dan aku bertaubat",
+        "en": "the One besides whom there is no god, the Ever-Living, the Sustainer, and I turn in repentance"
+      }
+    },
+    {
+      "start": 230,
+      "text": "إِلَيْهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "kepada-Nya. Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "to Him. There is no might nor power except with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 241,
+      "text": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
+      "translation": {
+        "id": "Cukuplah Allah bagiku, tiada tuhan selain Dia",
+        "en": "Allah is sufficient for me, there is no god but He"
+      }
+    },
+    {
+      "start": 248,
+      "text": "عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "translation": {
+        "id": "kepada-Nya aku bertawakal, dan Dia Tuhan Arasy yang agung",
+        "en": "in Him I put my trust, and He is the Lord of the Mighty Throne"
+      }
+    },
+    {
+      "start": 257,
+      "text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "translation": {
+        "id": "Wahai Yang Maha Hidup, wahai Yang Maha Berdiri Sendiri, dengan rahmat-Mu aku memohon pertolongan",
+        "en": "O Ever-Living, O Sustainer, by Your mercy I seek relief"
+      }
+    },
+    {
+      "start": 264,
+      "text": "أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَىٰ نَفْسِي طَرْفَةَ عَيْنٍ",
+      "translation": {
+        "id": "Perbaikilah seluruh urusanku, dan jangan serahkan aku kepada diriku sendiri sekejap mata pun",
+        "en": "Set right all my affairs, and do not leave me to myself for the blink of an eye"
+      }
+    },
+    {
+      "start": 275,
+      "text": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ",
+      "translation": {
+        "id": "Ya Allah, limpahkanlah selawat, salam, dan berkah",
+        "en": "O Allah, send blessings, peace, and grace"
+      }
+    },
+    {
+      "start": 281,
+      "text": "عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِهِ وَصَحْبِهِ",
+      "translation": {
+        "id": "kepada junjungan kami Muhammad, dan kepada keluarga serta para sahabatnya",
+        "en": "upon our master Muhammad, and upon his family and companions"
+      }
+    },
+    {
+      "start": 290,
+      "text": "أَجْمَعِينَ، لَا إِلَٰهَ إِلَّا اللَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "semuanya. Tiada tuhan selain Allah, tiada tuhan selain Allah",
+        "en": "all of them. There is no god but Allah, there is no god but Allah"
+      }
+    },
+    {
+      "start": 300,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah, tiada tuhan selain Allah",
+        "en": "There is no god but Allah, there is no god but Allah"
+      }
+    },
+    {
+      "start": 308,
+      "text": "مُحَمَّدٌ رَسُولُ اللَّهِ مُحَمَّدٌ رَسُولُ اللَّهِ",
+      "translation": {
+        "id": "Muhammad utusan Allah, Muhammad utusan Allah",
+        "en": "Muhammad is the Messenger of Allah, Muhammad is the Messenger of Allah"
+      }
+    },
+    {
+      "start": 315,
+      "text": "سُبْحَانَ اللَّهِ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ",
+      "translation": {
+        "id": "Maha Suci Allah, Maha Suci Allah, dan segala puji bagi Allah",
+        "en": "Glory be to Allah, glory be to Allah, and praise be to Allah"
+      }
+    },
+    {
+      "start": 322,
+      "text": "وَلَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "dan tiada tuhan selain Allah",
+        "en": "and there is no god but Allah"
+      }
+    },
+    {
+      "start": 329,
+      "text": "وَاللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translation": {
+        "id": "Allah Maha Besar. Maha Suci Allah dengan memuji-Nya",
+        "en": "and Allah is the Greatest. Glory be to Allah and with His praise"
+      }
+    },
+    {
+      "start": 336,
+      "text": "سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "translation": {
+        "id": "Maha Suci Allah Yang Maha Agung",
+        "en": "Glory be to Allah the Magnificent"
+      }
+    },
+    {
+      "start": 343,
+      "text": "سُبْحَانَ اللَّهِ مِلْءَ الْمِيزَانِ، سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ",
+      "translation": {
+        "id": "Maha Suci Allah sepenuh timbangan, Maha Suci Allah sebanyak keridhaan diri-Nya",
+        "en": "Glory be to Allah as much as fills the scale, glory be to Allah as much as pleases Him"
+      }
+    },
+    {
+      "start": 352,
+      "text": "أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+      "translation": {
+        "id": "Aku memohon ampun kepada Allah, aku memohon ampun kepada Allah Yang Maha Agung",
+        "en": "I seek forgiveness from Allah, I seek forgiveness from Allah the Magnificent"
+      }
+    },
+    {
+      "start": 359,
+      "text": "الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ",
+      "translation": {
+        "id": "Yang tiada tuhan selain Dia, Yang Maha Hidup, Yang Maha Berdiri Sendiri, dan aku bertaubat",
+        "en": "the One besides whom there is no god, the Ever-Living, the Sustainer, and I turn in repentance"
+      }
+    },
+    {
+      "start": 366,
+      "text": "إِلَيْهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "kepada-Nya. Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "to Him. There is no might nor power except with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 376,
+      "text": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
+      "translation": {
+        "id": "Cukuplah Allah bagiku, tiada tuhan selain Dia",
+        "en": "Allah is sufficient for me, there is no god but He"
+      }
+    },
+    {
+      "start": 383,
+      "text": "عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "translation": {
+        "id": "kepada-Nya aku bertawakal, dan Dia Tuhan Arasy yang agung",
+        "en": "in Him I put my trust, and He is the Lord of the Mighty Throne"
+      }
+    },
+    {
+      "start": 392,
+      "text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "translation": {
+        "id": "Wahai Yang Maha Hidup, wahai Yang Maha Berdiri Sendiri, dengan rahmat-Mu aku memohon pertolongan",
+        "en": "O Ever-Living, O Sustainer, by Your mercy I seek relief"
+      }
+    },
+    {
+      "start": 399,
+      "text": "أَصْلِحْ لِي شَأْنِي... لَا",
+      "translation": {
+        "id": "Perbaikilah urusanku... (terpotong)",
+        "en": "Set right my affairs... (cut off)"
+      }
+    },
+    {
+      "start": 412,
+      "text": "يَا رَزَّاقُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, wahai Maha Pemberi rezeki",
+        "en": "O Provider, O Provider"
+      }
+    },
+    {
+      "start": 424,
+      "text": "يَا فَتَّاحُ يَا رَزَّاقُ يَا فَتَّاحُ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pemberi rezeki, wahai Maha Pembuka",
+        "en": "O Opener, O Provider, O Opener"
+      }
+    },
+    {
+      "start": 431,
+      "text": "يَا رَزَّاقُ يَا كَرِيمُ يَا وَهَّابُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, wahai Maha Pemurah, wahai Maha Pemberi karunia",
+        "en": "O Provider, O Generous One, O Bestower"
+      }
+    },
+    {
+      "start": 440,
+      "text": "يَا فَتَّاحُ افْتَحْ لَنَا أَبْوَابَ رَحْمَتِكَ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, bukakanlah bagi kami pintu-pintu rahmat-Mu",
+        "en": "O Opener, open for us the gates of Your mercy"
+      }
+    },
+    {
+      "start": 450,
+      "text": "وَافْتَحْ لَنَا أَبْوَابَ فَضْلِكَ",
+      "translation": {
+        "id": "dan bukakanlah bagi kami pintu-pintu karunia-Mu",
+        "en": "and open for us the gates of Your bounty"
+      }
+    },
+    {
+      "start": 458,
+      "text": "وَافْتَحْ لَنَا أَبْوَابَ النُّورِ وَالْهِدَايَةِ",
+      "translation": {
+        "id": "dan bukakanlah bagi kami pintu-pintu cahaya dan hidayah",
+        "en": "and open for us the gates of light and guidance"
+      }
+    },
+    {
+      "start": 467,
+      "text": "يَا رَزَّاقُ ارْزُقْنَا رِزْقًا حَلَالًا طَيِّبًا وَاسِعًا",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, berilah kami rezeki yang halal, baik, dan luas",
+        "en": "O Provider, grant us provision that is lawful, wholesome, and abundant"
+      }
+    },
+    {
+      "start": 476,
+      "text": "رِزْقًا دَائِمًا غَيْرَ مَقْطُوعٍ",
+      "translation": {
+        "id": "rezeki yang terus-menerus, tidak terputus",
+        "en": "provision that is constant, uninterrupted"
+      }
+    },
+    {
+      "start": 482,
+      "text": "رِزْقًا لَا يَكُونُ فِيهِ تَعَبٌ وَلَا مَشَقَّةٌ",
+      "translation": {
+        "id": "rezeki yang tidak ada kelelahan dan kesukaran di dalamnya",
+        "en": "provision in which there is no fatigue nor hardship"
+      }
+    },
+    {
+      "start": 491,
+      "text": "يَا فَتَّاحُ يَا فَتَّاحُ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pembuka",
+        "en": "O Opener, O Opener"
+      }
+    },
+    {
+      "start": 498,
+      "text": "افْتَحْ لَنَا خَيْرَ الْفُتُوحَاتِ وَأَغْلِقْ عَنَّا",
+      "translation": {
+        "id": "Bukakanlah bagi kami sebaik-baik pembukaan, dan tutuplah dari kami",
+        "en": "Open for us the best of openings, and close against us"
+      }
+    },
+    {
+      "start": 505,
+      "text": "أَبْوَابَ الْهُمُومِ وَالْأَحْزَانِ",
+      "translation": {
+        "id": "pintu-pintu kegelisahan dan kesedihan",
+        "en": "the gates of worries and sorrows"
+      }
+    },
+    {
+      "start": 511,
+      "text": "يَا رَزَّاقُ يَا رَزَّاقُ ارْزُقْنَا رِزْقَ الْقُلُوبِ بِذِكْرِكَ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, berilah hati kami rezeki dengan mengingat-Mu",
+        "en": "O Provider, O Provider, grant our hearts provision through Your remembrance"
+      }
+    },
+    {
+      "start": 522,
+      "text": "وَرِزْقَ الْأَرْوَاحِ بِقُرْبِكَ وَرِزْقَ الْأَبْدَانِ بِصِحَّةٍ",
+      "translation": {
+        "id": "dan rezeki ruh dengan kedekatan-Mu, dan rezeki jasad dengan kesehatan",
+        "en": "and the souls provision through nearness to You, and the bodies provision through health"
+      }
+    },
+    {
+      "start": 532,
+      "text": "وَعَافِيَةٍ، يَا فَتَّاحُ يَا مَنْ لَا تُغْلَقُ دُونَهُ الْأَبْوَابُ",
+      "translation": {
+        "id": "dan afiat. Wahai Maha Pembuka, wahai Yang pintu-pintu tak tertutup di hadapan-Nya",
+        "en": "and well-being. O Opener, O One before whom no gate is closed"
+      }
+    },
+    {
+      "start": 543,
+      "text": "يَا مَنْ لَا يُعْجِزُهُ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+      "translation": {
+        "id": "Wahai Yang tidak ada sesuatu pun melemahkan-Nya di bumi maupun di langit",
+        "en": "O One whom nothing can thwart, on earth or in heaven"
+      }
+    },
+    {
+      "start": 552,
+      "text": "يَا رَزَّاقُ يَا مَنْ يَرْزُقُ الطَّيْرَ فِي السَّمَاءِ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, wahai Yang memberi rezeki burung di langit",
+        "en": "O Provider, O One who provides for the bird in the sky"
+      }
+    },
+    {
+      "start": 559,
+      "text": "وَالْحُوتَ فِي الْبِحَارِ، ارْزُقْنَا مِنْ حَيْثُ لَا نَحْتَسِبُ",
+      "translation": {
+        "id": "dan ikan di lautan, berilah kami rezeki dari arah yang tidak kami sangka",
+        "en": "and the fish in the seas, provide for us from where we do not expect"
+      }
+    },
+    {
+      "start": 570,
+      "text": "يَا فَتَّاحُ وَافْتَحْ لَنَا",
+      "translation": {
+        "id": "Wahai Maha Pembuka, bukakanlah bagi kami",
+        "en": "O Opener, and open for us"
+      }
+    },
+    {
+      "start": 576,
+      "text": "أَبْوَابَ الْعِلْمِ وَالْفَهْمِ وَافْتَحْ لَنَا",
+      "translation": {
+        "id": "pintu-pintu ilmu dan pemahaman, dan bukakanlah bagi kami",
+        "en": "the gates of knowledge and understanding, and open for us"
+      }
+    },
+    {
+      "start": 585,
+      "text": "أَبْوَابَ الْحِكْمَةِ وَالْبَصِيرَةِ يَا رَزَّاقُ",
+      "translation": {
+        "id": "pintu-pintu hikmah dan mata hati, wahai Maha Pemberi rezeki",
+        "en": "the gates of wisdom and insight, O Provider"
+      }
+    },
+    {
+      "start": 594,
+      "text": "ارْزُقْنَا صِدْقَ التَّوَكُّلِ عَلَيْكَ وَحُسْنَ الظَّنِّ بِكَ",
+      "translation": {
+        "id": "berilah kami kejujuran tawakal kepada-Mu dan prasangka baik kepada-Mu",
+        "en": "grant us sincerity of trust in You and good opinion of You"
+      }
+    },
+    {
+      "start": 603,
+      "text": "وَالْقَنَاعَةَ بِمَا قَسَمْتَ لَنَا",
+      "translation": {
+        "id": "dan sikap menerima atas apa yang Engkau bagikan kepada kami",
+        "en": "and contentment with what You have apportioned to us"
+      }
+    },
+    {
+      "start": 608,
+      "text": "يَا فَتَّاحُ يَا رَزَّاقُ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pemberi rezeki, wahai Pemilik Keagungan dan Kemuliaan",
+        "en": "O Opener, O Provider, O Possessor of Majesty and Honor"
+      }
+    },
+    {
+      "start": 619,
+      "text": "يَا حَيُّ يَا قَيُّومُ يَا اللَّهُ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Maha Hidup, wahai Maha Berdiri Sendiri, wahai Allah, wahai Allah",
+        "en": "O Ever-Living, O Sustainer, O Allah, O Allah"
+      }
+    },
+    {
+      "start": 628,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ يَا فَتَّاحُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang, wahai Maha Pembuka, wahai Maha Pemberi rezeki",
+        "en": "O Most Gracious, O Most Merciful, O Opener, O Provider"
+      }
+    },
+    {
+      "start": 638,
+      "text": "صَلِّ وَسَلِّمْ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ",
+      "translation": {
+        "id": "Limpahkanlah selawat dan salam kepada junjungan kami Muhammad",
+        "en": "Send blessings and peace upon our master Muhammad"
+      }
+    },
+    {
+      "start": 645,
+      "text": "وَعَلَىٰ آلِهِ وَصَحْبِهِ أَجْمَعِينَ",
+      "translation": {
+        "id": "dan kepada keluarga serta seluruh sahabatnya",
+        "en": "and upon his family and all his companions"
+      }
+    },
+    {
+      "start": 653,
+      "text": "يَا فَتَّاحُ يَا رَزَّاقُ يَا فَتَّاحُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pemberi rezeki, wahai Maha Pembuka, wahai Maha Pemberi rezeki",
+        "en": "O Opener, O Provider, O Opener, O Provider"
+      }
+    },
+    {
+      "start": 664,
+      "text": "يَا فَتَّاحُ يَا رَزَّاقُ يَا فَتَّاحُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pemberi rezeki, wahai Maha Pembuka, wahai Maha Pemberi rezeki",
+        "en": "O Opener, O Provider, O Opener, O Provider"
+      }
+    },
+    {
+      "start": 674,
+      "text": "يَا فَتَّاحُ يَا رَزَّاقُ يَا كَرِيمُ يَا وَهَّابُ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pemberi rezeki, wahai Maha Pemurah, wahai Maha Pemberi karunia",
+        "en": "O Opener, O Provider, O Generous One, O Bestower"
+      }
+    },
+    {
+      "start": 684,
+      "text": "يَا فَتَّاحُ افْتَحْ لَنَا أَبْوَابَ رَحْمَتِكَ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, bukakanlah bagi kami pintu-pintu rahmat-Mu",
+        "en": "O Opener, open for us the gates of Your mercy"
+      }
+    },
+    {
+      "start": 694,
+      "text": "وَافْتَحْ لَنَا أَبْوَابَ فَضْلِكَ",
+      "translation": {
+        "id": "dan bukakanlah bagi kami pintu-pintu karunia-Mu",
+        "en": "and open for us the gates of Your bounty"
+      }
+    },
+    {
+      "start": 701,
+      "text": "وَافْتَحْ لَنَا أَبْوَابَ النُّورِ وَالْهِدَايَةِ",
+      "translation": {
+        "id": "dan bukakanlah bagi kami pintu-pintu cahaya dan hidayah",
+        "en": "and open for us the gates of light and guidance"
+      }
+    },
+    {
+      "start": 711,
+      "text": "يَا رَزَّاقُ ارْزُقْنَا رِزْقًا حَلَالًا طَيِّبًا وَاسِعًا",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, berilah kami rezeki yang halal, baik, dan luas",
+        "en": "O Provider, grant us provision that is lawful, wholesome, and abundant"
+      }
+    },
+    {
+      "start": 720,
+      "text": "رِزْقًا دَائِمًا غَيْرَ مَقْطُوعٍ",
+      "translation": {
+        "id": "rezeki yang terus-menerus, tidak terputus",
+        "en": "provision that is constant, uninterrupted"
+      }
+    },
+    {
+      "start": 726,
+      "text": "رِزْقًا لَا يَكُونُ فِيهِ تَعَبٌ وَلَا مَشَقَّةٌ",
+      "translation": {
+        "id": "rezeki yang tidak ada kelelahan dan kesukaran di dalamnya",
+        "en": "provision in which there is no fatigue nor hardship"
+      }
+    },
+    {
+      "start": 735,
+      "text": "يَا فَتَّاحُ يَا فَتَّاحُ",
+      "translation": {
+        "id": "Wahai Maha Pembuka, wahai Maha Pembuka",
+        "en": "O Opener, O Opener"
+      }
+    },
+    {
+      "start": 742,
+      "text": "افْتَحْ لَنَا خَيْرَ الْفُتُوحَاتِ وَأَغْلِقْ عَنَّا",
+      "translation": {
+        "id": "Bukakanlah bagi kami sebaik-baik pembukaan, dan tutuplah dari kami",
+        "en": "Open for us the best of openings, and close against us"
+      }
+    },
+    {
+      "start": 749,
+      "text": "أَبْوَابَ الْهُمُومِ وَالْأَحْزَانِ",
+      "translation": {
+        "id": "pintu-pintu kegelisahan dan kesedihan",
+        "en": "the gates of worries and sorrows"
+      }
+    },
+    {
+      "start": 755,
+      "text": "يَا رَزَّاقُ يَا رَزَّاقُ وَارْزُقْنَا رِزْقَ الْقُلُوبِ بِذِكْرِكَ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, berilah hati kami rezeki dengan mengingat-Mu",
+        "en": "O Provider, O Provider, and grant our hearts provision through Your remembrance"
+      }
+    },
+    {
+      "start": 766,
+      "text": "وَرِزْقَ الْأَرْوَاحِ بِقُرْبِكَ وَرِزْقَ الْأَبْدَانِ بِصِحَّةٍ",
+      "translation": {
+        "id": "dan rezeki ruh dengan kedekatan-Mu, dan rezeki jasad dengan kesehatan",
+        "en": "and the souls provision through nearness to You, and the bodies provision through health"
+      }
+    },
+    {
+      "start": 776,
+      "text": "وَعَافِيَةٍ، يَا فَتَّاحُ يَا مَنْ لَا تُغْلَقُ دُونَهُ الْأَبْوَابُ",
+      "translation": {
+        "id": "dan afiat. Wahai Maha Pembuka, wahai Yang pintu-pintu tak tertutup di hadapan-Nya",
+        "en": "and well-being. O Opener, O One before whom no gate is closed"
+      }
+    },
+    {
+      "start": 789,
+      "text": "يَا مَنْ لَا يُعْجِزُهُ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+      "translation": {
+        "id": "Wahai Yang tidak ada sesuatu pun melemahkan-Nya di bumi maupun di langit",
+        "en": "O One whom nothing can thwart, on earth or in heaven"
+      }
+    },
+    {
+      "start": 799,
+      "text": "يَا رَزَّاقُ يَا مَنْ يَرْزُقُ الطَّيْرَ فِي السَّمَاءِ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, wahai Yang memberi rezeki burung di langit",
+        "en": "O Provider, O One who provides for the bird in the sky"
+      }
+    },
+    {
+      "start": 806,
+      "text": "وَالْحُوتَ فِي الْبِحَارِ، ارْزُقْنَا مِنْ حَيْثُ لَا نَحْتَسِبُ",
+      "translation": {
+        "id": "dan ikan di lautan, berilah kami rezeki dari arah yang tidak kami sangka",
+        "en": "and the fish in the seas, provide for us from where we do not expect"
+      }
+    },
+    {
+      "start": 817,
+      "text": "يَا فَتَّاحُ افْتَحْ لَنَا",
+      "translation": {
+        "id": "Wahai Maha Pembuka, bukakanlah bagi kami",
+        "en": "O Opener, open for us"
+      }
+    },
+    {
+      "start": 824,
+      "text": "أَبْوَابَ الْعِلْمِ وَالْفَهْمِ وَافْتَحْ لَنَا",
+      "translation": {
+        "id": "pintu-pintu ilmu dan pemahaman, dan bukakanlah bagi kami",
+        "en": "the gates of knowledge and understanding, and open for us"
+      }
+    },
+    {
+      "start": 832,
+      "text": "أَبْوَابَ الْحِكْمَةِ وَالْبَصِيرَةِ",
+      "translation": {
+        "id": "pintu-pintu hikmah dan mata hati",
+        "en": "the gates of wisdom and insight"
+      }
+    },
+    {
+      "start": 839,
+      "text": "يَا رَزَّاقُ ارْزُقْنَا رِزْقَ الْقُلُوبِ بِذِكْرِكَ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, berilah hati kami rezeki dengan mengingat-Mu",
+        "en": "O Provider, grant our hearts provision through Your remembrance"
+      }
+    },
+    {
+      "start": 846,
+      "text": "وَرِزْقَ الْأَرْوَاحِ بِقُرْبِكَ وَرِزْقَ الْأَبْدَانِ بِصِحَّةٍ",
+      "translation": {
+        "id": "dan rezeki ruh dengan kedekatan-Mu, dan rezeki jasad dengan kesehatan",
+        "en": "and the souls provision through nearness to You, and the bodies provision through health"
+      }
+    },
+    {
+      "start": 856,
+      "text": "وَعَافِيَةٍ، يَا فَتَّاحُ يَا مَنْ لَا تُغْلَقُ دُونَهُ الْأَبْوَابُ",
+      "translation": {
+        "id": "dan afiat. Wahai Maha Pembuka, wahai Yang pintu-pintu tak tertutup di hadapan-Nya",
+        "en": "and well-being. O Opener, O One before whom no gate is closed"
+      }
+    },
+    {
+      "start": 869,
+      "text": "يَا مَنْ لَا يُعْجِزُهُ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ",
+      "translation": {
+        "id": "Wahai Yang tidak ada sesuatu pun melemahkan-Nya di bumi maupun di langit",
+        "en": "O One whom nothing can thwart, on earth or in heaven"
+      }
+    },
+    {
+      "start": 877,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 887,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 894,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 901,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ يَا اللَّهُ يَا رَحْمَٰنُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang, wahai Allah, wahai Maha Pengasih",
+        "en": "O Most Gracious, O Most Merciful, O Allah, O Most Gracious"
+      }
+    },
+    {
+      "start": 911,
+      "text": "يَا اللَّهُ يَا رَحِيمُ يَا اللَّهُ يَا رَحْمَٰنُ",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Penyayang, wahai Allah, wahai Maha Pengasih",
+        "en": "O Allah, O Most Merciful, O Allah, O Most Gracious"
+      }
+    },
+    {
+      "start": 918,
+      "text": "يَا اللَّهُ يَا رَحِيمُ يَا رَحْمَٰنُ ارْحَمْنَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Penyayang, wahai Maha Pengasih, rahmatilah kami",
+        "en": "O Allah, O Most Merciful, O Most Gracious, have mercy on us"
+      }
+    },
+    {
+      "start": 925,
+      "text": "يَا رَحِيمُ اجْبُرْنَا يَا رَحْمَٰنُ ارْحَمْنَا",
+      "translation": {
+        "id": "Wahai Maha Penyayang, tutupilah kekurangan kami, wahai Maha Pengasih, rahmatilah kami",
+        "en": "O Most Merciful, mend us, O Most Gracious, have mercy on us"
+      }
+    },
+    {
+      "start": 932,
+      "text": "يَا رَحِيمُ أَغْنِنَا يَا رَحْمَٰنُ اشْمَلْ بِرَحْمَتِكَ",
+      "translation": {
+        "id": "Wahai Maha Penyayang, cukupkanlah kami, wahai Maha Pengasih, liputilah dengan rahmat-Mu",
+        "en": "O Most Merciful, enrich us, O Most Gracious, encompass us with Your mercy"
+      }
+    },
+    {
+      "start": 941,
+      "text": "يَا رَحِيمُ اغْمُرْ قُلُوبَنَا بِنُورِكَ",
+      "translation": {
+        "id": "Wahai Maha Penyayang, penuhilah hati kami dengan cahaya-Mu",
+        "en": "O Most Merciful, flood our hearts with Your light"
+      }
+    },
+    {
+      "start": 949,
+      "text": "يَا رَحْمَٰنُ طَهِّرْ قُلُوبَنَا",
+      "translation": {
+        "id": "Wahai Maha Pengasih, sucikanlah hati kami",
+        "en": "O Most Gracious, purify our hearts"
+      }
+    },
+    {
+      "start": 956,
+      "text": "يَا رَحِيمُ نَقِّ نُفُوسَنَا",
+      "translation": {
+        "id": "Wahai Maha Penyayang, bersihkanlah jiwa kami",
+        "en": "O Most Merciful, cleanse our souls"
+      }
+    },
+    {
+      "start": 962,
+      "text": "يَا رَحْمَٰنُ لَا تَحْرِمْنَا يَا رَحِيمُ لَا تَرُدَّنَا يَا رَحْمَٰنُ أَنْتَ الْمَلَاذُ يَا",
+      "translation": {
+        "id": "Wahai Maha Pengasih, jangan halangi kami, wahai Maha Penyayang, jangan tolak kami, wahai Maha Pengasih, Engkau tempat berlindung, wahai...",
+        "en": "O Most Gracious, do not deprive us, O Most Merciful, do not turn us away, O Most Gracious, You are the refuge, O"
+      }
+    },
+    {
+      "start": 973,
+      "text": "رَحِيمُ وَأَنْتَ الْأَمَانُ يَا رَحْمَٰنُ أَنْتَ الرِّضَا يَا",
+      "translation": {
+        "id": "Maha Penyayang, dan Engkau keamanan, wahai Maha Pengasih, Engkau keridhaan, wahai...",
+        "en": "Most Merciful, and You are the safety, O Most Gracious, You are the contentment, O"
+      }
+    },
+    {
+      "start": 980,
+      "text": "رَحْمَٰنُ أَنْتَ الرَّجَاءُ يَا رَحْمَٰنُ فِي الشِّدَّةِ يَا رَحِيمُ",
+      "translation": {
+        "id": "Maha Pengasih, Engkau harapan, wahai Maha Pengasih di saat kesulitan, wahai Maha Penyayang",
+        "en": "Most Gracious, You are the hope, O Most Gracious in hardship, O Most Merciful"
+      }
+    },
+    {
+      "start": 988,
+      "text": "فِي الرَّخَاءِ يَا رَحْمَٰنُ فِي السَّرَّاءِ",
+      "translation": {
+        "id": "di saat kelapangan, wahai Maha Pengasih di saat senang",
+        "en": "in ease, O Most Gracious in times of joy"
+      }
+    },
+    {
+      "start": 1004,
+      "text": "يَا رَحِيمُ فِي الضَّرَّاءِ يَا رَحْمَٰنُ فِي الْقُلُوبِ يَا",
+      "translation": {
+        "id": "wahai Maha Penyayang di saat susah, wahai Maha Pengasih di dalam hati, wahai...",
+        "en": "O Most Merciful in times of distress, O Most Gracious within the hearts, O"
+      }
+    },
+    {
+      "start": 1011,
+      "text": "رَحِيمُ فِي الْجَوَارِحِ يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Maha Penyayang pada anggota badan, wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "Most Merciful in the limbs, O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 1021,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 1028,
+      "text": "رَحْمَتَكَ نَرْجُوهَا يَا اللَّهُ وَفَضْلَكَ نَسْأَلُ يَا اللَّهُ",
+      "translation": {
+        "id": "Rahmat-Mu kami harapkan ya Allah, dan karunia-Mu kami minta ya Allah",
+        "en": "Your mercy we hope for, O Allah, and Your bounty we ask, O Allah"
+      }
+    },
+    {
+      "start": 1034,
+      "text": "يَا رَحْمَٰنُ اجْبُرْ قُلُوبَنَا يَا رَحِيمُ أَسْكِنْ نُفُوسَنَا",
+      "translation": {
+        "id": "Wahai Maha Pengasih, kuatkanlah hati kami, wahai Maha Penyayang, tenangkanlah jiwa kami",
+        "en": "O Most Gracious, mend our hearts, O Most Merciful, calm our souls"
+      }
+    },
+    {
+      "start": 1045,
+      "text": "يَا رَحْمَٰنُ اشْفِ مَرْضَانَا يَا رَحِيمُ ارْحَمْ مَوْتَانَا",
+      "translation": {
+        "id": "Wahai Maha Pengasih, sembuhkanlah orang sakit kami, wahai Maha Penyayang, rahmatilah orang mati kami",
+        "en": "O Most Gracious, heal our sick, O Most Merciful, have mercy on our dead"
+      }
+    },
+    {
+      "start": 1052,
+      "text": "يَا رَحْمَٰنُ اقْضِ حَوَائِجَنَا يَا رَحِيمُ يَسِّرْ أُمُورَنَا",
+      "translation": {
+        "id": "Wahai Maha Pengasih, penuhilah hajat kami, wahai Maha Penyayang, mudahkanlah urusan kami",
+        "en": "O Most Gracious, fulfill our needs, O Most Merciful, ease our affairs"
+      }
+    },
+    {
+      "start": 1061,
+      "text": "يَا رَحِيمُ زِدْنَا إِيمَانًا يَا رَحِيمُ زِدْنَا",
+      "translation": {
+        "id": "Wahai Maha Penyayang, tambahkanlah iman kami, wahai Maha Penyayang, tambahkanlah kami",
+        "en": "O Most Merciful, increase us in faith, O Most Merciful, increase us"
+      }
+    },
+    {
+      "start": 1067,
+      "text": "يَقِينًا يَا رَحِيمُ ثَبِّتْ خُطَانَا يَا رَحِيمُ اهْدِ قُلُوبَنَا",
+      "translation": {
+        "id": "keyakinan, wahai Maha Penyayang, teguhkanlah langkah kami, wahai Maha Penyayang, berilah hidayah hati kami",
+        "en": "in certainty, O Most Merciful, make firm our steps, O Most Merciful, guide our hearts"
+      }
+    },
+    {
+      "start": 1076,
+      "text": "سُبْحَانَكَ يَا رَحْمَٰنُ سُبْحَانَكَ يَا رَحِيمُ",
+      "translation": {
+        "id": "Maha Suci Engkau wahai Maha Pengasih, Maha Suci Engkau wahai Maha Penyayang",
+        "en": "Glory be to You, O Most Gracious, glory be to You, O Most Merciful"
+      }
+    },
+    {
+      "start": 1082,
+      "text": "لَا إِلَٰهَ إِلَّا أَنْتَ لَا إِلَٰهَ إِلَّا أَنْتَ يَا",
+      "translation": {
+        "id": "Tiada tuhan selain Engkau, tiada tuhan selain Engkau, wahai...",
+        "en": "There is no god but You, there is no god but You, O"
+      }
+    },
+    {
+      "start": 1090,
+      "text": "رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Maha Pengasih, wahai Maha Penyayang",
+        "en": "Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 1096,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ بِرَحْمَتِكَ نَحْيَا",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang, dengan rahmat-Mu kami hidup",
+        "en": "O Most Gracious, O Most Merciful, by Your mercy we live"
+      }
+    },
+    {
+      "start": 1103,
+      "text": "وَبِرَحْمَتِكَ نَمُوتُ وَبِرَحْمَتِكَ نُبْعَثُ",
+      "translation": {
+        "id": "dan dengan rahmat-Mu kami mati, dan dengan rahmat-Mu kami dibangkitkan",
+        "en": "and by Your mercy we die, and by Your mercy we are resurrected"
+      }
+    },
+    {
+      "start": 1110,
+      "text": "يَا أَرْحَمَ الرَّاحِمِينَ يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Yang Paling Penyayang di antara para penyayang, wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Merciful of the merciful, O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 1120,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 1127,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ يَا رَحْمَٰنُ يَا رَحِيمُ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang, wahai Maha Pengasih, wahai Maha Penyayang, wahai Allah",
+        "en": "O Most Gracious, O Most Merciful, O Most Gracious, O Most Merciful, O Allah"
+      }
+    },
+    {
+      "start": 1135,
+      "text": "يَا رَحْمَٰنُ يَا اللَّهُ يَا رَحِيمُ يَا رَحْمَٰنُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Allah, wahai Maha Penyayang, wahai Maha Pengasih",
+        "en": "O Most Gracious, O Allah, O Most Merciful, O Most Gracious"
+      }
+    },
+    {
+      "start": 1144,
+      "text": "يَا رَحِيمُ يَا رَحِيمُ يَا اللَّهُ يَا رَحْمَٰنُ",
+      "translation": {
+        "id": "Wahai Maha Penyayang, wahai Maha Penyayang, wahai Allah, wahai Maha Pengasih",
+        "en": "O Most Merciful, O Most Merciful, O Allah, O Most Gracious"
+      }
+    },
+    {
+      "start": 1151,
+      "text": "يَا اللَّهُ يَا رَحِيمُ يَا رَحْمَٰنُ ارْحَمْنَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Penyayang, wahai Maha Pengasih, rahmatilah kami",
+        "en": "O Allah, O Most Merciful, O Most Gracious, have mercy on us"
+      }
+    },
+    {
+      "start": 1158,
+      "text": "يَا رَحِيمُ اغْفِرْ لَنَا يَا رَحْمَٰنُ ارْحَمْنَا",
+      "translation": {
+        "id": "Wahai Maha Penyayang, ampunilah kami, wahai Maha Pengasih, rahmatilah kami",
+        "en": "O Most Merciful, forgive us, O Most Gracious, have mercy on us"
+      }
+    },
+    {
+      "start": 1165,
+      "text": "يَا رَحِيمُ اغْفِرْ لَنَا",
+      "translation": {
+        "id": "Wahai Maha Penyayang, ampunilah kami",
+        "en": "O Most Merciful, forgive us"
+      }
+    },
+    {
+      "start": 1172,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci",
+        "en": "O Most Holy, O Source of Peace, O Most Holy"
+      }
+    },
+    {
+      "start": 1179,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1186,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci",
+        "en": "O Most Holy, O Source of Peace, O Most Holy"
+      }
+    },
+    {
+      "start": 1193,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ سُبْحَانَكَ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, Maha Suci Engkau ya Allah",
+        "en": "O Most Holy, O Source of Peace, glory be to You O Allah"
+      }
+    },
+    {
+      "start": 1204,
+      "text": "سُبْحَانَكَ يَا رَبَّنَا سُبْحَانَكَ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Maha Suci Engkau wahai Tuhan kami, Maha Suci Engkau wahai Maha Suci",
+        "en": "Glory be to You O our Lord, glory be to You O Most Holy"
+      }
+    },
+    {
+      "start": 1211,
+      "text": "سُبْحَانَكَ يَا سَلَامُ يَا اللَّهُ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Maha Suci Engkau wahai Maha Sejahtera, wahai Allah, wahai Maha Suci",
+        "en": "Glory be to You O Source of Peace, O Allah, O Most Holy"
+      }
+    },
+    {
+      "start": 1218,
+      "text": "يَا اللَّهُ يَا سَلَامُ يَا اللَّهُ طَهِّرْ قُلُوبَنَا يَا اللَّهُ سَكِّنْ أَرْوَاحَنَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Sejahtera, ya Allah sucikanlah hati kami, ya Allah tenangkanlah ruh kami",
+        "en": "O Allah, O Source of Peace, O Allah purify our hearts, O Allah calm our souls"
+      }
+    },
+    {
+      "start": 1228,
+      "text": "يَا قُدُّوسُ نَقِّنَا مِنَ الذُّنُوبِ",
+      "translation": {
+        "id": "Wahai Maha Suci, bersihkanlah kami dari dosa-dosa",
+        "en": "O Most Holy, cleanse us from sins"
+      }
+    },
+    {
+      "start": 1234,
+      "text": "يَا سَلَامُ أَنْزِلِ السَّكِينَةَ فِي الْقُلُوبِ",
+      "translation": {
+        "id": "Wahai Maha Sejahtera, turunkanlah ketenangan ke dalam hati",
+        "en": "O Source of Peace, send down tranquility into the hearts"
+      }
+    },
+    {
+      "start": 1241,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1250,
+      "text": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ، لَا",
+      "translation": {
+        "id": "Tiada tuhan selain Engkau, Maha Suci Engkau, sungguh aku termasuk orang-orang zalim. (Tiada)",
+        "en": "There is no god but You, glory be to You, indeed I was among the wrongdoers. (There is no)"
+      }
+    },
+    {
+      "start": 1257,
+      "text": "إِلَٰهَ إِلَّا اللَّهُ يَا قُدُّوسُ يَا سَلَامُ يَا سَلَامُ سَلِّمْنَا",
+      "translation": {
+        "id": "tuhan selain Allah. Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Sejahtera, selamatkanlah kami",
+        "en": "god but Allah. O Most Holy, O Source of Peace, O Source of Peace, grant us peace"
+      }
+    },
+    {
+      "start": 1267,
+      "text": "يَا سَلَامُ آمِنَّا يَا سَلَامُ اشْفِ قُلُوبَنَا",
+      "translation": {
+        "id": "Wahai Maha Sejahtera, berilah kami rasa aman, wahai Maha Sejahtera, sembuhkanlah hati kami",
+        "en": "O Source of Peace, grant us safety, O Source of Peace, heal our hearts"
+      }
+    },
+    {
+      "start": 1274,
+      "text": "يَا سَلَامُ ارْحَمْنَا يَا قُدُّوسُ طَهِّرْ أَرْوَاحَنَا يَا قُدُّوسُ زَكِّ نُفُوسَنَا يَا",
+      "translation": {
+        "id": "Wahai Maha Sejahtera, rahmatilah kami, wahai Maha Suci, sucikanlah ruh kami, wahai Maha Suci, bersihkanlah jiwa kami, wahai...",
+        "en": "O Source of Peace, have mercy on us, O Most Holy purify our souls, O Most Holy purify our selves, O"
+      }
+    },
+    {
+      "start": 1285,
+      "text": "قُدُّوسُ قَرِّبْنَا إِلَيْكَ يَا قُدُّوسُ لَا تُبْعِدْنَا",
+      "translation": {
+        "id": "Maha Suci, dekatkanlah kami kepada-Mu, wahai Maha Suci, jangan jauhkan kami",
+        "en": "Most Holy, draw us near to You, O Most Holy, do not distance us"
+      }
+    },
+    {
+      "start": 1293,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1300,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ اللَّهُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera, Allah",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace, Allah"
+      }
+    },
+    {
+      "start": 1308,
+      "text": "اللَّهُ",
+      "translation": {
+        "id": "Allah",
+        "en": "Allah"
+      }
+    },
+    {
+      "start": 1314,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1321,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1326,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ سُبْحَانَكَ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera, Maha Suci Engkau",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace, glory be to You"
+      }
+    },
+    {
+      "start": 1333,
+      "text": "يَا اللَّهُ سُبْحَانَكَ يَا رَبَّنَا سُبْحَانَكَ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Ya Allah, Maha Suci Engkau wahai Tuhan kami, Maha Suci Engkau wahai Maha Suci",
+        "en": "O Allah, glory be to You O our Lord, glory be to You O Most Holy"
+      }
+    },
+    {
+      "start": 1343,
+      "text": "سُبْحَانَكَ يَا سَلَامُ يَا اللَّهُ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Maha Suci Engkau wahai Maha Sejahtera, wahai Allah, wahai Maha Suci",
+        "en": "Glory be to You O Source of Peace, O Allah, O Most Holy"
+      }
+    },
+    {
+      "start": 1350,
+      "text": "يَا اللَّهُ يَا سَلَامُ يَا اللَّهُ طَهِّرْ قُلُوبَنَا يَا اللَّهُ سَكِّنْ أَرْوَاحَنَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Sejahtera, ya Allah sucikanlah hati kami, ya Allah tenangkanlah ruh kami",
+        "en": "O Allah, O Source of Peace, O Allah purify our hearts, O Allah calm our souls"
+      }
+    },
+    {
+      "start": 1361,
+      "text": "يَا قُدُّوسُ نَقِّنَا مِنَ الذُّنُوبِ",
+      "translation": {
+        "id": "Wahai Maha Suci, bersihkanlah kami dari dosa-dosa",
+        "en": "O Most Holy, cleanse us from sins"
+      }
+    },
+    {
+      "start": 1366,
+      "text": "يَا سَلَامُ أَنْزِلِ السَّكِينَةَ فِي الْقُلُوبِ",
+      "translation": {
+        "id": "Wahai Maha Sejahtera, turunkanlah ketenangan ke dalam hati",
+        "en": "O Source of Peace, send down tranquility into the hearts"
+      }
+    },
+    {
+      "start": 1373,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1382,
+      "text": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ، لَا",
+      "translation": {
+        "id": "Tiada tuhan selain Engkau, Maha Suci Engkau, sungguh aku termasuk orang-orang zalim. (Tiada)",
+        "en": "There is no god but You, glory be to You, indeed I was among the wrongdoers. (There is no)"
+      }
+    },
+    {
+      "start": 1389,
+      "text": "إِلَٰهَ إِلَّا اللَّهُ يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "tuhan selain Allah. Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "god but Allah. O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1399,
+      "text": "اللَّهُ رَبُّنَا لَا إِلَٰهَ إِلَّا هُوَ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Allah Tuhan kami, tiada tuhan selain Dia, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "Allah is our Lord, there is no god but He, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1408,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Allah",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Allah"
+      }
+    },
+    {
+      "start": 1416,
+      "text": "سُبْحَانَكَ يَا اللَّهُ سُبْحَانَكَ يَا رَبَّنَا",
+      "translation": {
+        "id": "Maha Suci Engkau ya Allah, Maha Suci Engkau wahai Tuhan kami",
+        "en": "Glory be to You O Allah, glory be to You O our Lord"
+      }
+    },
+    {
+      "start": 1423,
+      "text": "سُبْحَانَكَ يَا قُدُّوسُ سُبْحَانَكَ يَا سَلَامُ يَا اللَّهُ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Maha Suci Engkau wahai Maha Suci, Maha Suci Engkau wahai Maha Sejahtera, wahai Allah, wahai Maha Suci",
+        "en": "Glory be to You O Most Holy, glory be to You O Source of Peace, O Allah, O Most Holy"
+      }
+    },
+    {
+      "start": 1433,
+      "text": "يَا اللَّهُ يَا سَلَامُ يَا اللَّهُ طَهِّرْ قُلُوبَنَا يَا اللَّهُ سَكِّنْ أَرْوَاحَنَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Sejahtera, ya Allah sucikanlah hati kami, ya Allah tenangkanlah ruh kami",
+        "en": "O Allah, O Source of Peace, O Allah purify our hearts, O Allah calm our souls"
+      }
+    },
+    {
+      "start": 1443,
+      "text": "يَا قُدُّوسُ نَقِّنَا مِنَ الذُّنُوبِ",
+      "translation": {
+        "id": "Wahai Maha Suci, bersihkanlah kami dari dosa-dosa",
+        "en": "O Most Holy, cleanse us from sins"
+      }
+    },
+    {
+      "start": 1449,
+      "text": "يَا سَلَامُ أَنْزِلِ السَّكِينَةَ فِي الْقُلُوبِ",
+      "translation": {
+        "id": "Wahai Maha Sejahtera, turunkanlah ketenangan ke dalam hati",
+        "en": "O Source of Peace, send down tranquility into the hearts"
+      }
+    },
+    {
+      "start": 1456,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1464,
+      "text": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "translation": {
+        "id": "Tiada tuhan selain Engkau, Maha Suci Engkau, sungguh aku termasuk orang-orang zalim",
+        "en": "There is no god but You, glory be to You, indeed I was among the wrongdoers"
+      }
+    },
+    {
+      "start": 1471,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah, wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "There is no god but Allah, O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1482,
+      "text": "اللَّهُ رَبُّنَا لَا إِلَٰهَ إِلَّا هُوَ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Allah Tuhan kami, tiada tuhan selain Dia, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "Allah is our Lord, there is no god but He, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1491,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai...",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace, O Most Holy, O"
+      }
+    },
+    {
+      "start": 1502,
+      "text": "سُبْحَانَكَ يَا اللَّهُ سُبْحَانَكَ يَا رَبَّنَا",
+      "translation": {
+        "id": "Maha Suci Engkau ya Allah, Maha Suci Engkau wahai Tuhan kami",
+        "en": "Glory be to You O Allah, glory be to You O our Lord"
+      }
+    },
+    {
+      "start": 1509,
+      "text": "سُبْحَانَكَ يَا قُدُّوسُ سُبْحَانَكَ يَا سَلَامُ يَا اللَّهُ يَا قُدُّوسُ",
+      "translation": {
+        "id": "Maha Suci Engkau wahai Maha Suci, Maha Suci Engkau wahai Maha Sejahtera, wahai Allah, wahai Maha Suci",
+        "en": "Glory be to You O Most Holy, glory be to You O Source of Peace, O Allah, O Most Holy"
+      }
+    },
+    {
+      "start": 1519,
+      "text": "يَا اللَّهُ يَا سَلَامُ يَا اللَّهُ طَهِّرْ قُلُوبَنَا يَا اللَّهُ سَكِّنْ أَرْوَاحَنَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Maha Sejahtera, ya Allah sucikanlah hati kami, ya Allah tenangkanlah ruh kami",
+        "en": "O Allah, O Source of Peace, O Allah purify our hearts, O Allah calm our souls"
+      }
+    },
+    {
+      "start": 1530,
+      "text": "يَا قُدُّوسُ نَقِّنَا مِنَ الذُّنُوبِ",
+      "translation": {
+        "id": "Wahai Maha Suci, bersihkanlah kami dari dosa-dosa",
+        "en": "O Most Holy, cleanse us from sins"
+      }
+    },
+    {
+      "start": 1534,
+      "text": "يَا سَلَامُ أَنْزِلِ السَّكِينَةَ فِي الْقُلُوبِ",
+      "translation": {
+        "id": "Wahai Maha Sejahtera, turunkanlah ketenangan ke dalam hati",
+        "en": "O Source of Peace, send down tranquility into the hearts"
+      }
+    },
+    {
+      "start": 1541,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1549,
+      "text": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ، لَا",
+      "translation": {
+        "id": "Tiada tuhan selain Engkau, Maha Suci Engkau, sungguh aku termasuk orang-orang zalim. (Tiada)",
+        "en": "There is no god but You, glory be to You, indeed I was among the wrongdoers. (There is no)"
+      }
+    },
+    {
+      "start": 1557,
+      "text": "إِلَٰهَ إِلَّا اللَّهُ يَا قُدُّوسُ يَا سَلَامُ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "tuhan selain Allah. Wahai Maha Suci, wahai Maha Sejahtera, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "god but Allah. O Most Holy, O Source of Peace, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1566,
+      "text": "اللَّهُ رَبُّنَا لَا إِلَٰهَ إِلَّا هُوَ يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Allah Tuhan kami, tiada tuhan selain Dia, wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "Allah is our Lord, there is no god but He, O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1575,
+      "text": "يَا قُدُّوسُ يَا سَلَامُ",
+      "translation": {
+        "id": "Wahai Maha Suci, wahai Maha Sejahtera",
+        "en": "O Most Holy, O Source of Peace"
+      }
+    },
+    {
+      "start": 1582,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai...",
+        "en": "O Bestower, O Provider, O"
+      }
+    },
+    {
+      "start": 1588,
+      "text": "رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "Provider, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1596,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "O Bestower, O Provider, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1603,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "O Bestower, O Provider, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1610,
+      "text": "يَا مَنْ يَهَبُ بِغَيْرِ حِسَابٍ",
+      "translation": {
+        "id": "Wahai Yang memberi karunia tanpa hitungan",
+        "en": "O One who bestows without reckoning"
+      }
+    },
+    {
+      "start": 1616,
+      "text": "يَا مَنْ يَرْزُقُ مَنْ يَشَاءُ يَا ذَا الْقُوَّةِ وَالْمَتَانَةِ",
+      "translation": {
+        "id": "Wahai Yang memberi rezeki kepada siapa yang Dia kehendaki, wahai Pemilik kekuatan dan keteguhan",
+        "en": "O One who provides for whom He wills, O Possessor of strength and firmness"
+      }
+    },
+    {
+      "start": 1625,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا فَتَّاحُ يَا عَلِيمُ يَا بَاسِطُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pembuka, wahai Maha Mengetahui, wahai Maha Melapangkan",
+        "en": "O Bestower, O Provider, O Opener, O All-Knowing, O Expander"
+      }
+    },
+    {
+      "start": 1633,
+      "text": "يَا قَابِضُ يَا رَبَّ الْعَرْشِ الْعَظِيمِ يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Menyempitkan, wahai Tuhan Arasy yang agung, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "O Withholder, O Lord of the Mighty Throne, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1642,
+      "text": "فَارْزُقْنَا رِزْقًا وَاسِعًا",
+      "translation": {
+        "id": "maka berilah kami rezeki yang luas",
+        "en": "so grant us abundant provision"
+      }
+    },
+    {
+      "start": 1649,
+      "text": "حَلَالًا طَيِّبًا مُبَارَكًا فِيهِ",
+      "translation": {
+        "id": "yang halal, baik, dan diberkahi di dalamnya",
+        "en": "lawful, wholesome, blessed therein"
+      }
+    },
+    {
+      "start": 1656,
+      "text": "مِنْ حَيْثُ لَا نَحْتَسِبُ يَا وَهَّابُ يَا رَزَّاقُ افْتَحْ لَنَا",
+      "translation": {
+        "id": "dari arah yang tidak kami sangka, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, bukakanlah bagi kami",
+        "en": "from where we do not expect, O Bestower, O Provider, open for us"
+      }
+    },
+    {
+      "start": 1665,
+      "text": "أَبْوَابَ خَيْرِكَ وَأَغْلِقْ عَنَّا أَبْوَابَ الشَّرِّ وَاصْرِفْ عَنَّا كُلَّ بَلَاءٍ",
+      "translation": {
+        "id": "pintu-pintu kebaikan-Mu, dan tutuplah dari kami pintu-pintu keburukan, dan palingkanlah dari kami segala bala",
+        "en": "the gates of Your goodness, and close against us the gates of evil, and turn away from us every affliction"
+      }
+    },
+    {
+      "start": 1673,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ أَغْنِنَا بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, cukupkanlah kami dengan karunia-Mu dari selain-Mu",
+        "en": "O Bestower, O Provider, enrich us with Your bounty so we need none besides You"
+      }
+    },
+    {
+      "start": 1683,
+      "text": "وَاكْفِنَا بِكَرَمِكَ كُلَّمَا نَهْوَىٰ",
+      "translation": {
+        "id": "dan cukupilah kami dengan kemurahan-Mu dari segala yang kami inginkan",
+        "en": "and suffice us with Your generosity from all we might desire"
+      }
+    },
+    {
+      "start": 1690,
+      "text": "وَلَا تَكِلْنَا إِلَىٰ أَنْفُسِنَا طَرْفَةَ عَيْنٍ",
+      "translation": {
+        "id": "dan jangan serahkan kami kepada diri kami sendiri sekejap mata pun",
+        "en": "and do not leave us to ourselves for the blink of an eye"
+      }
+    },
+    {
+      "start": 1697,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا مَنْ لَا تَنْفَدُ خَزَائِنُهُ يَا",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Yang perbendaharaan-Nya tak habis, wahai...",
+        "en": "O Bestower, O Provider, O One whose treasuries never run out, O"
+      }
+    },
+    {
+      "start": 1704,
+      "text": "مَنْ عَطَاؤُهُ دَائِمٌ يَا مَنْ جُودُهُ لَا يَنْقَطِعُ يَا",
+      "translation": {
+        "id": "Yang pemberian-Nya kekal, wahai Yang kedermawanan-Nya tak terputus, wahai...",
+        "en": "One whose giving is perpetual, O One whose generosity is unceasing, O"
+      }
+    },
+    {
+      "start": 1711,
+      "text": "وَهَّابُ يَا رَزَّاقُ ارْزُقْنَا رِزْقَ الْقُلُوبِ رِزْقَ الْيَقِينِ",
+      "translation": {
+        "id": "Maha Pemberi karunia, wahai Maha Pemberi rezeki, berilah kami rezeki hati, rezeki keyakinan",
+        "en": "Bestower, O Provider, grant us the provision of hearts, the provision of certainty"
+      }
+    },
+    {
+      "start": 1719,
+      "text": "وَالطُّمَأْنِينَةِ وَرِزْقَ الرِّضَا وَالْقُرْبِ",
+      "translation": {
+        "id": "dan ketenteraman, serta rezeki keridhaan dan kedekatan",
+        "en": "and tranquility, and the provision of contentment and nearness"
+      }
+    },
+    {
+      "start": 1724,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ نَوِّرْ قُلُوبَنَا بِنُورِ ذِكْرِكَ وَطَهِّرْ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, terangilah hati kami dengan cahaya zikir kepada-Mu, dan sucikanlah",
+        "en": "O Bestower, O Provider, illumine our hearts with the light of Your remembrance, and purify"
+      }
+    },
+    {
+      "start": 1733,
+      "text": "أَرْوَاحَنَا مِنْ كُلِّ غَفْلَةٍ وَاشْرَحْ صُدُورَنَا لِطَاعَتِكَ",
+      "translation": {
+        "id": "ruh kami dari segala kelalaian, dan lapangkanlah dada kami untuk taat kepada-Mu",
+        "en": "our souls from all heedlessness, and expand our breasts for Your obedience"
+      }
+    },
+    {
+      "start": 1739,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ اجْعَلْ ذِكْرَنَا لَكَ دَائِمًا وَلِسَانَنَا",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, jadikanlah zikir kami kepada-Mu terus-menerus, dan lisan kami",
+        "en": "O Bestower, O Provider, make our remembrance of You constant, and our tongues"
+      }
+    },
+    {
+      "start": 1746,
+      "text": "بِحَمْدِكَ لَهِجًا وَقُلُوبَنَا بِحُبِّكَ مُتَعَلِّقَةً",
+      "translation": {
+        "id": "senantiasa memuji-Mu, dan hati kami terpaut dengan cinta kepada-Mu",
+        "en": "ever uttering Your praise, and our hearts attached to Your love"
+      }
+    },
+    {
+      "start": 1752,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ ارْفَعْ عَنَّا الْهَمَّ وَالْحَزَنَ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, angkatlah dari kami kegelisahan dan kesedihan",
+        "en": "O Bestower, O Provider, lift from us worry and grief"
+      }
+    },
+    {
+      "start": 1762,
+      "text": "وَاقْضِ عَنَّا الدَّيْنَ وَالْحَاجَةَ",
+      "translation": {
+        "id": "dan lunaskanlah utang kami serta penuhilah hajat kami",
+        "en": "and settle for us the debt and the need"
+      }
+    },
+    {
+      "start": 1769,
+      "text": "وَاشْفِ مَرْضَانَا وَارْحَمْ مَوْتَانَا يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "dan sembuhkanlah orang sakit kami, dan rahmatilah orang mati kami, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "and heal our sick, and have mercy on our dead, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1776,
+      "text": "اجْعَلْ آخِرَ كَلَامِنَا مِنَ الدُّنْيَا",
+      "translation": {
+        "id": "jadikanlah akhir ucapan kami di dunia",
+        "en": "make the last of our words in this world"
+      }
+    },
+    {
+      "start": 1783,
+      "text": "لَا إِلَٰهَ إِلَّا أَنْتَ مُحَمَّدٌ رَسُولُ اللَّهِ",
+      "translation": {
+        "id": "Tiada tuhan selain Engkau, Muhammad utusan Allah",
+        "en": "There is no god but You, Muhammad is the Messenger of Allah"
+      }
+    },
+    {
+      "start": 1790,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ صَلِّ وَسَلِّمْ وَبَارِكْ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, limpahkanlah selawat, salam, dan berkah",
+        "en": "O Bestower, O Provider, send blessings, peace, and grace"
+      }
+    },
+    {
+      "start": 1797,
+      "text": "عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِهِ وَصَحْبِهِ أَجْمَعِينَ",
+      "translation": {
+        "id": "kepada junjungan kami Muhammad, dan kepada keluarga serta seluruh sahabatnya",
+        "en": "upon our master Muhammad, and upon his family and all his companions"
+      }
+    },
+    {
+      "start": 1805,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ يَا وَهَّابُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia",
+        "en": "O Bestower, O Provider, O Bestower, O Provider, O Bestower"
+      }
+    },
+    {
+      "start": 1814,
+      "text": "يَا رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "O Provider, O Bestower, O Provider, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1822,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ يَا",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai...",
+        "en": "O Bestower, O Provider, O Bestower, O Provider, O"
+      }
+    },
+    {
+      "start": 1830,
+      "text": "رَزَّاقُ يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Maha Pemberi rezeki, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "Provider, O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1836,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki",
+        "en": "O Bestower, O Provider"
+      }
+    },
+    {
+      "start": 1843,
+      "text": "يَا مَنْ يَهَبُ بِغَيْرِ حِسَابٍ يَا مَنْ يَرْزُقُ مَنْ يَشَاءُ",
+      "translation": {
+        "id": "Wahai Yang memberi karunia tanpa hitungan, wahai Yang memberi rezeki kepada siapa yang Dia kehendaki",
+        "en": "O One who bestows without reckoning, O One who provides for whom He wills"
+      }
+    },
+    {
+      "start": 1855,
+      "text": "يَا ذَا الْقُوَّةِ وَالْمَتَانَةِ يَا وَهَّابُ يَا رَزَّاقُ افْتَحْ لَنَا أَبْوَابَ خَيْرِكَ",
+      "translation": {
+        "id": "Wahai Pemilik kekuatan dan keteguhan, wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, bukakanlah bagi kami pintu-pintu kebaikan-Mu",
+        "en": "O Possessor of strength and firmness, O Bestower, O Provider, open for us the gates of Your goodness"
+      }
+    },
+    {
+      "start": 1865,
+      "text": "وَأَغْلِقْ عَنَّا أَبْوَابَ الشَّرِّ وَاصْرِفْ عَنَّا كُلَّ بَلَاءٍ",
+      "translation": {
+        "id": "dan tutuplah dari kami pintu-pintu keburukan, dan palingkanlah dari kami segala bala",
+        "en": "and close against us the gates of evil, and turn away from us every affliction"
+      }
+    },
+    {
+      "start": 1874,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ أَغْنِنَا بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, cukupkanlah kami dengan karunia-Mu dari selain-Mu",
+        "en": "O Bestower, O Provider, enrich us with Your bounty so we need none besides You"
+      }
+    },
+    {
+      "start": 1884,
+      "text": "وَاكْفِنَا بِكَرَمِكَ كُلَّمَا نَهْوَىٰ",
+      "translation": {
+        "id": "dan cukupilah kami dengan kemurahan-Mu dari segala yang kami inginkan",
+        "en": "and suffice us with Your generosity from all we might desire"
+      }
+    },
+    {
+      "start": 1891,
+      "text": "وَلَا تَكِلْنَا إِلَىٰ أَنْفُسِنَا طَرْفَةَ عَيْنٍ",
+      "translation": {
+        "id": "dan jangan serahkan kami kepada diri kami sendiri sekejap mata pun",
+        "en": "and do not leave us to ourselves for the blink of an eye"
+      }
+    },
+    {
+      "start": 1898,
+      "text": "يَا وَهَّابُ يَا رَزَّاقُ يَا مَنْ لَا تَنْفَدُ خَزَائِنُهُ يَا",
+      "translation": {
+        "id": "Wahai Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Yang perbendaharaan-Nya tak habis, wahai...",
+        "en": "O Bestower, O Provider, O One whose treasuries never run out, O"
+      }
+    },
+    {
+      "start": 1905,
+      "text": "وَهَّابُ يَا رَزَّاقُ يَا مَنْ لَا تَنْفَدُ خَزَائِنُهُ يَا وَهَّابُ",
+      "translation": {
+        "id": "Maha Pemberi karunia, wahai Maha Pemberi rezeki, wahai Yang perbendaharaan-Nya tak habis, wahai Maha Pemberi karunia",
+        "en": "Bestower, O Provider, O One whose treasuries never run out, O Bestower"
+      }
+    },
+    {
+      "start": 1913,
+      "text": "يَا رَزَّاقُ",
+      "translation": {
+        "id": "Wahai Maha Pemberi rezeki",
+        "en": "O Provider"
+      }
+    },
+    {
+      "start": 1925,
+      "text": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Maha Suci Allah, segala puji bagi Allah, dan tiada tuhan selain Allah",
+        "en": "Glory be to Allah, and praise be to Allah, and there is no god but Allah"
+      }
+    },
+    {
+      "start": 1934,
+      "text": "وَاللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translation": {
+        "id": "dan Allah Maha Besar. Maha Suci Allah dengan memuji-Nya",
+        "en": "and Allah is the Greatest. Glory be to Allah and with His praise"
+      }
+    },
+    {
+      "start": 1943,
+      "text": "سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "translation": {
+        "id": "Maha Suci Allah Yang Maha Agung",
+        "en": "Glory be to Allah the Magnificent"
+      }
+    },
+    {
+      "start": 1949,
+      "text": "سُبْحَانَ اللَّهِ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ",
+      "translation": {
+        "id": "Maha Suci Allah sepenuh langit dan sepenuh bumi",
+        "en": "Glory be to Allah as much as fills the heavens and fills the earth"
+      }
+    },
+    {
+      "start": 1957,
+      "text": "وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+      "translation": {
+        "id": "dan sepenuh apa yang ada di antara keduanya, dan sepenuh apa yang Engkau kehendaki setelah itu",
+        "en": "and fills what is between them, and fills whatever You will of anything thereafter"
+      }
+    },
+    {
+      "start": 1966,
+      "text": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا",
+      "translation": {
+        "id": "Segala puji bagi Allah dengan pujian yang banyak, baik, dan diberkahi",
+        "en": "Praise be to Allah, abundant, wholesome, blessed praise"
+      }
+    },
+    {
+      "start": 1975,
+      "text": "فِيهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَىٰ",
+      "translation": {
+        "id": "di dalamnya, sebagaimana yang dicintai dan diridai Tuhan kami",
+        "en": "therein, as our Lord loves and is pleased with"
+      }
+    },
+    {
+      "start": 1982,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah semata, tiada sekutu bagi-Nya",
+        "en": "There is no god but Allah alone, He has no partner"
+      }
+    },
+    {
+      "start": 1992,
+      "text": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": {
+        "id": "milik-Nya kerajaan dan milik-Nya segala puji, dan Dia Mahakuasa atas segala sesuatu",
+        "en": "to Him belongs the dominion and to Him belongs all praise, and He is over all things competent"
+      }
+    },
+    {
+      "start": 2001,
+      "text": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ",
+      "translation": {
+        "id": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar",
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest"
+      }
+    },
+    {
+      "start": 2008,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah",
+        "en": "There is no god but Allah"
+      }
+    },
+    {
+      "start": 2015,
+      "text": "وَاللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ",
+      "translation": {
+        "id": "dan Allah Maha Besar, dan bagi Allah segala puji",
+        "en": "and Allah is the Greatest, and to Allah belongs all praise"
+      }
+    },
+    {
+      "start": 2022,
+      "text": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Maha Suci Allah, segala puji bagi Allah, tiada tuhan selain Allah",
+        "en": "Glory be to Allah, and praise be to Allah, there is no god but Allah"
+      }
+    },
+    {
+      "start": 2030,
+      "text": "وَاللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translation": {
+        "id": "dan Allah Maha Besar. Maha Suci Allah dengan memuji-Nya",
+        "en": "and Allah is the Greatest. Glory be to Allah and with His praise"
+      }
+    },
+    {
+      "start": 2040,
+      "text": "سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "translation": {
+        "id": "Maha Suci Allah Yang Maha Agung",
+        "en": "Glory be to Allah the Magnificent"
+      }
+    },
+    {
+      "start": 2046,
+      "text": "سُبْحَانَ اللَّهِ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ",
+      "translation": {
+        "id": "Maha Suci Allah sepenuh langit dan sepenuh bumi",
+        "en": "Glory be to Allah as much as fills the heavens and fills the earth"
+      }
+    },
+    {
+      "start": 2054,
+      "text": "وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+      "translation": {
+        "id": "dan sepenuh apa yang ada di antara keduanya, dan sepenuh apa yang Engkau kehendaki setelah itu",
+        "en": "and fills what is between them, and fills whatever You will of anything thereafter"
+      }
+    },
+    {
+      "start": 2064,
+      "text": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا",
+      "translation": {
+        "id": "Segala puji bagi Allah dengan pujian yang banyak, baik, dan diberkahi",
+        "en": "Praise be to Allah, abundant, wholesome, blessed praise"
+      }
+    },
+    {
+      "start": 2072,
+      "text": "فِيهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَىٰ",
+      "translation": {
+        "id": "di dalamnya, sebagaimana yang dicintai dan diridai Tuhan kami",
+        "en": "therein, as our Lord loves and is pleased with"
+      }
+    },
+    {
+      "start": 2079,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah semata, tiada sekutu bagi-Nya",
+        "en": "There is no god but Allah alone, He has no partner"
+      }
+    },
+    {
+      "start": 2089,
+      "text": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": {
+        "id": "milik-Nya kerajaan dan milik-Nya segala puji, dan Dia Mahakuasa atas segala sesuatu",
+        "en": "to Him belongs the dominion and to Him belongs all praise, and He is over all things competent"
+      }
+    },
+    {
+      "start": 2098,
+      "text": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ",
+      "translation": {
+        "id": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar",
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest"
+      }
+    },
+    {
+      "start": 2105,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah",
+        "en": "There is no god but Allah"
+      }
+    },
+    {
+      "start": 2113,
+      "text": "اللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ",
+      "translation": {
+        "id": "Allah Maha Besar, dan bagi Allah segala puji",
+        "en": "Allah is the Greatest, and to Allah belongs all praise"
+      }
+    },
+    {
+      "start": 2119,
+      "text": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Maha Suci Allah, segala puji bagi Allah, dan tiada tuhan selain Allah",
+        "en": "Glory be to Allah, and praise be to Allah, and there is no god but Allah"
+      }
+    },
+    {
+      "start": 2127,
+      "text": "وَاللَّهُ أَكْبَرُ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translation": {
+        "id": "dan Allah Maha Besar. Maha Suci Allah dengan memuji-Nya",
+        "en": "and Allah is the Greatest. Glory be to Allah and with His praise"
+      }
+    },
+    {
+      "start": 2137,
+      "text": "سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "translation": {
+        "id": "Maha Suci Allah Yang Maha Agung",
+        "en": "Glory be to Allah the Magnificent"
+      }
+    },
+    {
+      "start": 2144,
+      "text": "سُبْحَانَ اللَّهِ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ",
+      "translation": {
+        "id": "Maha Suci Allah sepenuh langit dan sepenuh bumi",
+        "en": "Glory be to Allah as much as fills the heavens and fills the earth"
+      }
+    },
+    {
+      "start": 2151,
+      "text": "وَمِلْءَ مَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+      "translation": {
+        "id": "dan sepenuh apa yang ada di antara keduanya, dan sepenuh apa yang Engkau kehendaki setelah itu",
+        "en": "and fills what is between them, and fills whatever You will of anything thereafter"
+      }
+    },
+    {
+      "start": 2161,
+      "text": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا",
+      "translation": {
+        "id": "Segala puji bagi Allah dengan pujian yang banyak, baik, dan diberkahi",
+        "en": "Praise be to Allah, abundant, wholesome, blessed praise"
+      }
+    },
+    {
+      "start": 2169,
+      "text": "فِيهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَىٰ",
+      "translation": {
+        "id": "di dalamnya, sebagaimana yang dicintai dan diridai Tuhan kami",
+        "en": "therein, as our Lord loves and is pleased with"
+      }
+    },
+    {
+      "start": 2177,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah semata, tiada sekutu bagi-Nya",
+        "en": "There is no god but Allah alone, He has no partner"
+      }
+    },
+    {
+      "start": 2187,
+      "text": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "translation": {
+        "id": "milik-Nya kerajaan dan milik-Nya segala puji, dan Dia Mahakuasa atas segala sesuatu",
+        "en": "to Him belongs the dominion and to Him belongs all praise, and He is over all things competent"
+      }
+    },
+    {
+      "start": 2196,
+      "text": "اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ",
+      "translation": {
+        "id": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar",
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest"
+      }
+    },
+    {
+      "start": 2203,
+      "text": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+      "translation": {
+        "id": "Tiada tuhan selain Allah",
+        "en": "There is no god but Allah"
+      }
+    },
+    {
+      "start": 2211,
+      "text": "اللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ",
+      "translation": {
+        "id": "Allah Maha Besar, dan bagi Allah segala puji",
+        "en": "Allah is the Greatest, and to Allah belongs all praise"
+      }
+    },
+    {
+      "start": 2221,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2232,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2241,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2248,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2255,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2262,
+      "text": "حَسْبُنَا اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, tiada tuhan selain Dia",
+        "en": "Allah is sufficient for us, there is no god but He"
+      }
+    },
+    {
+      "start": 2270,
+      "text": "عَلَيْهِ تَوَكَّلْنَا وَهُوَ رَبُّ الْعَرْشِ",
+      "translation": {
+        "id": "kepada-Nya kami bertawakal, dan Dia Tuhan Arasy",
+        "en": "in Him we put our trust, and He is the Lord of the Throne"
+      }
+    },
+    {
+      "start": 2278,
+      "text": "نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+      "translation": {
+        "id": "sebaik-baik pelindung dan sebaik-baik penolong",
+        "en": "an excellent Protector and an excellent Helper"
+      }
+    },
+    {
+      "start": 2285,
+      "text": "نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ",
+      "translation": {
+        "id": "sebaik-baik pelindung dan sebaik-baik penolong, wahai Allah, wahai Allah, wahai Allah",
+        "en": "an excellent Protector and an excellent Helper, O Allah, O Allah, O Allah"
+      }
+    },
+    {
+      "start": 2295,
+      "text": "يَا رَبَّنَا يَا رَبَّنَا يَا رَبَّنَا",
+      "translation": {
+        "id": "Wahai Tuhan kami, wahai Tuhan kami, wahai Tuhan kami",
+        "en": "O our Lord, O our Lord, O our Lord"
+      }
+    },
+    {
+      "start": 2302,
+      "text": "يَا حَيُّ يَا قَيُّومُ يَا حَيُّ يَا قَيُّومُ",
+      "translation": {
+        "id": "Wahai Maha Hidup, wahai Maha Berdiri Sendiri, wahai Maha Hidup, wahai Maha Berdiri Sendiri",
+        "en": "O Ever-Living, O Sustainer, O Ever-Living, O Sustainer"
+      }
+    },
+    {
+      "start": 2310,
+      "text": "بِرَحْمَتِكَ نَسْتَغِيثُ، حَسْبِيَ اللَّهُ لَا",
+      "translation": {
+        "id": "dengan rahmat-Mu kami memohon pertolongan. Cukuplah Allah bagiku, (tiada)",
+        "en": "by Your mercy we seek relief. Allah is sufficient for me, (there is no)"
+      }
+    },
+    {
+      "start": 2318,
+      "text": "إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ",
+      "translation": {
+        "id": "tuhan selain Dia, kepada-Nya aku bertawakal",
+        "en": "god but He, in Him I put my trust"
+      }
+    },
+    {
+      "start": 2326,
+      "text": "وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "translation": {
+        "id": "dan Dia Tuhan Arasy yang agung",
+        "en": "and He is the Lord of the Mighty Throne"
+      }
+    },
+    {
+      "start": 2331,
+      "text": "يَا لَطِيفُ يَا لَطِيفُ يَا لَطِيفُ",
+      "translation": {
+        "id": "Wahai Maha Lembut, wahai Maha Lembut, wahai Maha Lembut",
+        "en": "O Most Subtle, O Most Subtle, O Most Subtle"
+      }
+    },
+    {
+      "start": 2338,
+      "text": "يَا كَرِيمُ يَا كَرِيمُ يَا كَرِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pemurah, wahai Maha Pemurah, wahai Maha Pemurah",
+        "en": "O Generous One, O Generous One, O Generous One"
+      }
+    },
+    {
+      "start": 2344,
+      "text": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+      "translation": {
+        "id": "Wahai Maha Pengasih, wahai Maha Penyayang",
+        "en": "O Most Gracious, O Most Merciful"
+      }
+    },
+    {
+      "start": 2350,
+      "text": "اللَّهُمَّ اكْفِنَا بِحَلَالِكَ عَنْ حَرَامِكَ",
+      "translation": {
+        "id": "Ya Allah, cukupkanlah kami dengan yang halal dari-Mu sehingga tak butuh yang haram",
+        "en": "O Allah, suffice us with what You made lawful so we need not what You made unlawful"
+      }
+    },
+    {
+      "start": 2357,
+      "text": "وَأَغْنِنَا بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "translation": {
+        "id": "dan cukupkanlah kami dengan karunia-Mu dari selain-Mu",
+        "en": "and enrich us with Your bounty so we need none besides You"
+      }
+    },
+    {
+      "start": 2364,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2372,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2378,
+      "text": "يَا مَوْلَانَا يَا مَوْلَانَا",
+      "translation": {
+        "id": "Wahai Pelindung kami, wahai Pelindung kami",
+        "en": "O our Protector, O our Protector"
+      }
+    },
+    {
+      "start": 2383,
+      "text": "أَنْتَ حَسْبُنَا وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Engkau cukup bagi kami, dan sebaik-baik pelindung",
+        "en": "You are sufficient for us, and the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2389,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2396,
+      "text": "نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "translation": {
+        "id": "sebaik-baik pelindung dan sebaik-baik penolong. Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung",
+        "en": "an excellent Protector and an excellent Helper. Allah is sufficient for us, and He is the best Disposer of affairs"
+      }
+    },
+    {
+      "start": 2406,
+      "text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ حَسْبُنَا اللَّهُ",
+      "translation": {
+        "id": "Cukuplah Allah bagi kami dan sebaik-baik pelindung, cukuplah Allah bagi kami",
+        "en": "Allah is sufficient for us and the best Disposer of affairs, Allah is sufficient for us"
+      }
+    },
+    {
+      "start": 2414,
+      "text": "وَنِعْمَ الْوَكِيلُ حَسْبُنَا اللَّهُ لَا",
+      "translation": {
+        "id": "dan sebaik-baik pelindung, cukuplah Allah bagi kami, (tiada)",
+        "en": "and the best Disposer of affairs, Allah is sufficient for us, (there is no)"
+      }
+    },
+    {
+      "start": 2422,
+      "text": "إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْنَا",
+      "translation": {
+        "id": "tuhan selain Dia, kepada-Nya kami bertawakal",
+        "en": "god but He, in Him we put our trust"
+      }
+    },
+    {
+      "start": 2431,
+      "text": "وَهُوَ رَبُّ الْعَرْشِ، نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+      "translation": {
+        "id": "dan Dia Tuhan Arasy, sebaik-baik pelindung dan sebaik-baik penolong",
+        "en": "and He is the Lord of the Throne, an excellent Protector and an excellent Helper"
+      }
+    },
+    {
+      "start": 2441,
+      "text": "نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ",
+      "translation": {
+        "id": "sebaik-baik pelindung dan sebaik-baik penolong, wahai Allah, wahai Allah, wahai Allah",
+        "en": "an excellent Protector and an excellent Helper, O Allah, O Allah, O Allah"
+      }
+    },
+    {
+      "start": 2450,
+      "text": "يَا رَبَّنَا يَا رَبَّنَا يَا رَبَّنَا",
+      "translation": {
+        "id": "Wahai Tuhan kami, wahai Tuhan kami, wahai Tuhan kami",
+        "en": "O our Lord, O our Lord, O our Lord"
+      }
+    },
+    {
+      "start": 2457,
+      "text": "يَا حَيُّ يَا قَيُّومُ يَا حَيُّ يَا قَيُّومُ",
+      "translation": {
+        "id": "Wahai Maha Hidup, wahai Maha Berdiri Sendiri, wahai Maha Hidup, wahai Maha Berdiri Sendiri",
+        "en": "O Ever-Living, O Sustainer, O Ever-Living, O Sustainer"
+      }
+    },
+    {
+      "start": 2465,
+      "text": "بِرَحْمَتِكَ نَسْتَغِيثُ، حَسْبِيَ اللَّهُ لَا",
+      "translation": {
+        "id": "dengan rahmat-Mu kami memohon pertolongan. Cukuplah Allah bagiku, (tiada)",
+        "en": "by Your mercy we seek relief. Allah is sufficient for me, (there is no)"
+      }
+    },
+    {
+      "start": 2473,
+      "text": "إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ",
+      "translation": {
+        "id": "tuhan selain Dia, kepada-Nya aku bertawakal",
+        "en": "god but He, in Him I put my trust"
+      }
+    },
+    {
+      "start": 2481,
+      "text": "وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "translation": {
+        "id": "dan Dia Tuhan Arasy yang agung",
+        "en": "and He is the Lord of the Mighty Throne"
+      }
+    },
+    {
+      "start": 2503,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah",
+        "en": "There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2511,
+      "text": "الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung",
+        "en": "the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2521,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah",
+        "en": "There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2528,
+      "text": "الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung",
+        "en": "the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2537,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah",
+        "en": "There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2547,
+      "text": "الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung",
+        "en": "the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2553,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah",
+        "en": "There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2562,
+      "text": "الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung",
+        "en": "the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2569,
+      "text": "يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Allah, wahai Allah, wahai Allah, wahai Allah",
+        "en": "O Allah, O Allah, O Allah, O Allah"
+      }
+    },
+    {
+      "start": 2581,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah",
+        "en": "There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2590,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan pertolongan Allah",
+        "en": "There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2600,
+      "text": "بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2607,
+      "text": "بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2615,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "There is no might nor power except with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2623,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "There is no might nor power except with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2631,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi",
+        "en": "There is no might nor power except with Allah, the Most High"
+      }
+    },
+    {
+      "start": 2641,
+      "text": "الْعَظِيمِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا",
+      "translation": {
+        "id": "Yang Maha Agung. Tiada daya dan tiada kekuatan kecuali...",
+        "en": "the Magnificent. There is no might nor power except"
+      }
+    },
+    {
+      "start": 2648,
+      "text": "بِاللَّهِ الْعَلِيِّ",
+      "translation": {
+        "id": "dengan Allah Yang Maha Tinggi",
+        "en": "with Allah, the Most High"
+      }
+    },
+    {
+      "start": 2656,
+      "text": "الْعَظِيمِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Yang Maha Agung. Tiada daya dan tiada kekuatan kecuali dengan Allah",
+        "en": "the Magnificent. There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2670,
+      "text": "بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2677,
+      "text": "يَا اللَّهُ يَا اللَّهُ يَا",
+      "translation": {
+        "id": "Wahai Allah, wahai Allah, wahai...",
+        "en": "O Allah, O Allah, O"
+      }
+    },
+    {
+      "start": 2689,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ، بِاللَّهِ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan Allah, dengan Allah",
+        "en": "There is no might nor power except with Allah, with Allah"
+      }
+    },
+    {
+      "start": 2700,
+      "text": "قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "kekuatan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "power except with Allah, the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2705,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi",
+        "en": "There is no might nor power except with Allah, the Most High"
+      }
+    },
+    {
+      "start": 2714,
+      "text": "يَا عَظِيمُ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Wahai Maha Agung, tiada daya dan tiada kekuatan kecuali dengan Allah",
+        "en": "O Magnificent, there is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2728,
+      "text": "وَلَا قُوَّةَ إِلَّا بِاللَّهِ، بِاللَّهِ",
+      "translation": {
+        "id": "dan tiada kekuatan kecuali dengan Allah, dengan Allah",
+        "en": "and no power except with Allah, with Allah"
+      }
+    },
+    {
+      "start": 2736,
+      "text": "الْعَلِيِّ الْعَظِيمِ بِاللَّهِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung, dengan Allah",
+        "en": "the Most High, the Magnificent, with Allah"
+      }
+    },
+    {
+      "start": 2747,
+      "text": "الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung",
+        "en": "the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2753,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ",
+      "translation": {
+        "id": "Tiada daya dan tiada kekuatan kecuali dengan Allah Yang Maha Tinggi",
+        "en": "There is no might nor power except with Allah, the Most High"
+      }
+    },
+    {
+      "start": 2762,
+      "text": "الْعَظِيمِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "translation": {
+        "id": "Yang Maha Agung. Tiada daya dan tiada kekuatan kecuali dengan Allah",
+        "en": "the Magnificent. There is no might nor power except with Allah"
+      }
+    },
+    {
+      "start": 2771,
+      "text": "الْعَلِيِّ الْعَظِيمِ",
+      "translation": {
+        "id": "Yang Maha Tinggi lagi Maha Agung",
+        "en": "the Most High, the Magnificent"
+      }
+    },
+    {
+      "start": 2803,
+      "text": "يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Allah",
+        "en": "O Allah"
+      }
+    },
+    {
+      "start": 2810,
+      "text": "يَا اللَّهُ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Allah, wahai Allah",
+        "en": "O Allah, O Allah"
+      }
+    },
+    {
+      "start": 2817,
+      "text": "أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ خَلَقْتَنِي",
+      "translation": {
+        "id": "Engkau Tuhanku, tiada tuhan selain Engkau, Engkau menciptakanku",
+        "en": "You are my Lord, there is no god but You, You created me"
+      }
+    },
+    {
+      "start": 2826,
+      "text": "وَأَنَا عَبْدُكَ، يَا رَبِّ إِنِّي ضَعِيفٌ",
+      "translation": {
+        "id": "dan aku hamba-Mu. Wahai Tuhan, sungguh aku lemah",
+        "en": "and I am Your servant. O Lord, indeed I am weak"
+      }
+    },
+    {
+      "start": 2835,
+      "text": "فَقَوِّنِي، وَإِنِّي فَقِيرٌ",
+      "translation": {
+        "id": "maka kuatkanlah aku, dan sungguh aku fakir",
+        "en": "so strengthen me, and indeed I am poor"
+      }
+    },
+    {
+      "start": 2842,
+      "text": "فَأَغْنِنِي، وَإِنِّي حَزِينٌ",
+      "translation": {
+        "id": "maka cukupkanlah aku, dan sungguh aku bersedih",
+        "en": "so enrich me, and indeed I am grieved"
+      }
+    },
+    {
+      "start": 2849,
+      "text": "فَسَلِّ قَلْبِي يَا رَحْمَٰنُ يَا رَحِيمُ يَا لَطِيفُ يَا خَبِيرُ يَا جَبَّارُ",
+      "translation": {
+        "id": "maka hiburlah hatiku, wahai Maha Pengasih, wahai Maha Penyayang, wahai Maha Lembut, wahai Maha Mengetahui, wahai Maha Perkasa",
+        "en": "so console my heart, O Most Gracious, O Most Merciful, O Most Subtle, O All-Aware, O Compeller"
+      }
+    },
+    {
+      "start": 2861,
+      "text": "اجْبُرْ كَسْرَ قَلْبِي",
+      "translation": {
+        "id": "perbaikilah keretakan hatiku",
+        "en": "mend the brokenness of my heart"
+      }
+    },
+    {
+      "start": 2866,
+      "text": "وَيَا قَرِيبُ اقْتَرِبْ مِنِّي، اللَّهُمَّ إِنِّي أَشْكُو إِلَيْكَ",
+      "translation": {
+        "id": "dan wahai Yang Maha Dekat, dekatlah kepadaku. Ya Allah, sungguh aku mengadu kepada-Mu",
+        "en": "and O Near One, draw near to me. O Allah, indeed I complain to You"
+      }
+    },
+    {
+      "start": 2875,
+      "text": "ضَعْفَ قُوَّتِي وَقِلَّةَ حِيلَتِي وَهَوَانِي عَلَى النَّاسِ",
+      "translation": {
+        "id": "kelemahan kekuatanku, sedikitnya dayaku, dan kehinaanku di hadapan manusia",
+        "en": "of the weakness of my strength, the scarcity of my resources, and my lowliness before people"
+      }
+    },
+    {
+      "start": 2885,
+      "text": "يَا حَيُّ يَا قَيُّومُ لَا تَتْرُكْنِي وَحْدِي",
+      "translation": {
+        "id": "Wahai Maha Hidup, wahai Maha Berdiri Sendiri, jangan tinggalkan aku sendirian",
+        "en": "O Ever-Living, O Sustainer, do not leave me alone"
+      }
+    },
+    {
+      "start": 2891,
+      "text": "وَلَا تَكِلْنِي إِلَىٰ نَفْسِي فَإِنَّ نَفْسِي ضَعِيفَةٌ",
+      "translation": {
+        "id": "dan jangan serahkan aku kepada diriku, karena sungguh diriku lemah",
+        "en": "and do not leave me to myself, for indeed my self is weak"
+      }
+    },
+    {
+      "start": 2899,
+      "text": "أَسْتَغْفِرُكَ يَا رَبِّ مِنْ كُلِّ ذَنْبٍ أَثْقَلَنِي",
+      "translation": {
+        "id": "aku memohon ampun kepada-Mu wahai Tuhan dari setiap dosa yang memberatkanku",
+        "en": "I seek Your forgiveness, O Lord, from every sin that has weighed me down"
+      }
+    },
+    {
+      "start": 2907,
+      "text": "وَمِنْ كُلِّ خَطِيئَةٍ أَبْعَدَتْنِي عَنْكَ، اغْفِرْ لِي يَا اللَّهُ",
+      "translation": {
+        "id": "dan dari setiap kesalahan yang menjauhkanku dari-Mu. Ampunilah aku ya Allah",
+        "en": "and from every fault that has distanced me from You. Forgive me, O Allah"
+      }
+    },
+    {
+      "start": 2917,
+      "text": "وَارْحَمْنِي يَا اللَّهُ وَاجْعَلْنِي مِنْ عِبَادِكَ الصَّالِحِينَ",
+      "translation": {
+        "id": "dan rahmatilah aku ya Allah, dan jadikanlah aku termasuk hamba-hamba-Mu yang saleh",
+        "en": "and have mercy on me, O Allah, and make me among Your righteous servants"
+      }
+    },
+    {
+      "start": 2925,
+      "text": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ",
+      "translation": {
+        "id": "Cukuplah Allah bagiku, tiada tuhan selain Dia, kepada-Nya aku bertawakal",
+        "en": "Allah is sufficient for me, there is no god but He, in Him I put my trust"
+      }
+    },
+    {
+      "start": 2934,
+      "text": "وَإِلَيْهِ أُنِيبُ",
+      "translation": {
+        "id": "dan kepada-Nya aku kembali",
+        "en": "and to Him I turn"
+      }
+    },
+    {
+      "start": 2938,
+      "text": "وَلَا قُوَّةَ إِلَّا بِكَ، وَلَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا",
+      "translation": {
+        "id": "dan tiada kekuatan kecuali dengan-Mu, dan tiada tempat berlindung dan tiada tempat selamat dari-Mu kecuali...",
+        "en": "and there is no power except through You, and no shelter and no refuge from You except"
+      }
+    },
+    {
+      "start": 2946,
+      "text": "إِلَيْكَ، اللَّهُمَّ اجْعَلِ الْقُرْآنَ نُورَ صَدْرِي وَجَلَاءَ",
+      "translation": {
+        "id": "kepada-Mu. Ya Allah, jadikanlah Al-Qur'an cahaya dadaku dan pelipur",
+        "en": "to You. O Allah, make the Qur'an the light of my breast and the polish"
+      }
+    },
+    {
+      "start": 2955,
+      "text": "حُزْنِي وَذَهَابَ هَمِّي، وَصَلِّ اللَّهُمَّ وَسَلِّمْ",
+      "translation": {
+        "id": "kesedihanku serta penghilang kegelisahanku. Ya Allah, limpahkanlah selawat dan salam",
+        "en": "of my grief and the removal of my worry. And send, O Allah, blessings and peace"
+      }
+    },
+    {
+      "start": 2963,
+      "text": "عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِهِ وَصَحْبِهِ",
+      "translation": {
+        "id": "kepada junjungan kami Muhammad, dan kepada keluarga serta para sahabatnya",
+        "en": "upon our master Muhammad, and upon his family and companions"
+      }
+    },
+    {
+      "start": 2970,
+      "text": "أَجْمَعِينَ",
+      "translation": {
+        "id": "semuanya",
+        "en": "all of them"
+      }
+    },
+    {
+      "start": 2987,
+      "text": "أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ خَلَقْتَنِي",
+      "translation": {
+        "id": "Engkau Tuhanku, tiada tuhan selain Engkau, Engkau menciptakanku",
+        "en": "You are my Lord, there is no god but You, You created me"
+      }
+    },
+    {
+      "start": 2995,
+      "text": "وَأَنَا عَبْدُكَ، يَا رَبِّ إِنِّي ضَعِيفٌ",
+      "translation": {
+        "id": "dan aku hamba-Mu. Wahai Tuhan, sungguh aku lemah",
+        "en": "and I am Your servant. O Lord, indeed I am weak"
+      }
+    },
+    {
+      "start": 3004,
+      "text": "فَقَوِّنِي، وَإِنِّي فَقِيرٌ",
+      "translation": {
+        "id": "maka kuatkanlah aku, dan sungguh aku fakir",
+        "en": "so strengthen me, and indeed I am poor"
+      }
+    },
+    {
+      "start": 3011,
+      "text": "فَأَغْنِنِي، وَإِنِّي حَزِينٌ",
+      "translation": {
+        "id": "maka cukupkanlah aku, dan sungguh aku bersedih",
+        "en": "so enrich me, and indeed I am grieved"
+      }
+    },
+    {
+      "start": 3018,
+      "text": "فَسَلِّ قَلْبِي يَا رَحْمَٰنُ يَا رَحِيمُ يَا لَطِيفُ يَا خَبِيرُ يَا جَبَّارُ",
+      "translation": {
+        "id": "maka hiburlah hatiku, wahai Maha Pengasih, wahai Maha Penyayang, wahai Maha Lembut, wahai Maha Mengetahui, wahai Maha Perkasa",
+        "en": "so console my heart, O Most Gracious, O Most Merciful, O Most Subtle, O All-Aware, O Compeller"
+      }
+    },
+    {
+      "start": 3030,
+      "text": "اجْبُرْ كَسْرَ قَلْبِي",
+      "translation": {
+        "id": "perbaikilah keretakan hatiku",
+        "en": "mend the brokenness of my heart"
+      }
+    },
+    {
+      "start": 3036,
+      "text": "وَيَا قَرِيبُ اقْتَرِبْ مِنِّي، اللَّهُمَّ إِنِّي أَشْكُو إِلَيْكَ",
+      "translation": {
+        "id": "dan wahai Yang Maha Dekat, dekatlah kepadaku. Ya Allah, sungguh aku mengadu kepada-Mu",
+        "en": "and O Near One, draw near to me. O Allah, indeed I complain to You"
+      }
+    },
+    {
+      "start": 3044,
+      "text": "ضَعْفَ قُوَّتِي وَقِلَّةَ حِيلَتِي وَهَوَانِي عَلَى النَّاسِ",
+      "translation": {
+        "id": "kelemahan kekuatanku, sedikitnya dayaku, dan kehinaanku di hadapan manusia",
+        "en": "of the weakness of my strength, the scarcity of my resources, and my lowliness before people"
+      }
+    },
+    {
+      "start": 3055,
+      "text": "يَا حَيُّ يَا قَيُّومُ لَا تَتْرُكْنِي وَحْدِي",
+      "translation": {
+        "id": "Wahai Maha Hidup, wahai Maha Berdiri Sendiri, jangan tinggalkan aku sendirian",
+        "en": "O Ever-Living, O Sustainer, do not leave me alone"
+      }
+    },
+    {
+      "start": 3061,
+      "text": "وَلَا تَكِلْنِي إِلَىٰ نَفْسِي فَإِنَّ نَفْسِي ضَعِيفَةٌ",
+      "translation": {
+        "id": "dan jangan serahkan aku kepada diriku, karena sungguh diriku lemah",
+        "en": "and do not leave me to myself, for indeed my self is weak"
+      }
+    },
+    {
+      "start": 3069,
+      "text": "أَسْتَغْفِرُكَ يَا رَبِّ مِنْ كُلِّ ذَنْبٍ أَثْقَلَنِي",
+      "translation": {
+        "id": "aku memohon ampun kepada-Mu wahai Tuhan dari setiap dosa yang memberatkanku",
+        "en": "I seek Your forgiveness, O Lord, from every sin that has weighed me down"
+      }
+    },
+    {
+      "start": 3076,
+      "text": "وَمِنْ كُلِّ خَطِيئَةٍ أَبْعَدَتْنِي عَنْكَ، اغْفِرْ لِي يَا اللَّهُ",
+      "translation": {
+        "id": "dan dari setiap kesalahan yang menjauhkanku dari-Mu. Ampunilah aku ya Allah",
+        "en": "and from every fault that has distanced me from You. Forgive me, O Allah"
+      }
+    },
+    {
+      "start": 3086,
+      "text": "وَارْحَمْنِي يَا اللَّهُ وَاجْعَلْنِي مِنْ عِبَادِكَ الصَّالِحِينَ",
+      "translation": {
+        "id": "dan rahmatilah aku ya Allah, dan jadikanlah aku termasuk hamba-hamba-Mu yang saleh",
+        "en": "and have mercy on me, O Allah, and make me among Your righteous servants"
+      }
+    },
+    {
+      "start": 3095,
+      "text": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ",
+      "translation": {
+        "id": "Cukuplah Allah bagiku, tiada tuhan selain Dia, kepada-Nya aku bertawakal",
+        "en": "Allah is sufficient for me, there is no god but He, in Him I put my trust"
+      }
+    },
+    {
+      "start": 3103,
+      "text": "وَإِلَيْهِ أُنِيبُ",
+      "translation": {
+        "id": "dan kepada-Nya aku kembali",
+        "en": "and to Him I turn"
+      }
+    },
+    {
+      "start": 3108,
+      "text": "وَلَا قُوَّةَ إِلَّا بِكَ، وَلَا مَلْجَأَ وَلَا مَنْجَا مِنْكَ إِلَّا",
+      "translation": {
+        "id": "dan tiada kekuatan kecuali dengan-Mu, dan tiada tempat berlindung dan tiada tempat selamat dari-Mu kecuali...",
+        "en": "and there is no power except through You, and no shelter and no refuge from You except"
+      }
+    },
+    {
+      "start": 3116,
+      "text": "إِلَيْكَ، اللَّهُمَّ اجْعَلِ الْقُرْآنَ نُورَ صَدْرِي وَجَلَاءَ",
+      "translation": {
+        "id": "kepada-Mu. Ya Allah, jadikanlah Al-Qur'an cahaya dadaku dan pelipur",
+        "en": "to You. O Allah, make the Qur'an the light of my breast and the polish"
+      }
+    },
+    {
+      "start": 3124,
+      "text": "حُزْنِي وَذَهَابَ هَمِّي، وَصَلِّ اللَّهُمَّ وَسَلِّمْ",
+      "translation": {
+        "id": "kesedihanku serta penghilang kegelisahanku. Ya Allah, limpahkanlah selawat dan salam",
+        "en": "of my grief and the removal of my worry. And send, O Allah, blessings and peace"
+      }
+    },
+    {
+      "start": 3132,
+      "text": "عَلَىٰ سَيِّدِنَا مُحَمَّدٍ وَعَلَىٰ آلِهِ وَصَحْبِهِ",
+      "translation": {
+        "id": "kepada junjungan kami Muhammad, dan kepada keluarga serta para sahabatnya",
+        "en": "upon our master Muhammad, and upon his family and companions"
+      }
+    },
+    {
+      "start": 3139,
+      "text": "أَجْمَعِينَ",
+      "translation": {
+        "id": "semuanya",
+        "en": "all of them"
+      }
+    },
+    {
+      "start": 3148,
+      "text": "يَا اللَّهُ يَا اللَّهُ",
+      "translation": {
+        "id": "Wahai Allah, wahai Allah",
+        "en": "O Allah, O Allah"
+      }
+    },
+    {
+      "start": 3155,
+      "text": "أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ خَلَقْتَنِي",
+      "translation": {
+        "id": "Engkau Tuhanku, tiada tuhan selain Engkau, Engkau menciptakanku",
+        "en": "You are my Lord, there is no god but You, You created me"
+      }
+    },
+    {
+      "start": 3164,
+      "text": "وَأَنَا عَبْدُكَ، يَا رَبِّ إِنِّي ضَعِيفٌ",
+      "translation": {
+        "id": "dan aku hamba-Mu. Wahai Tuhan, sungguh aku lemah",
+        "en": "and I am Your servant. O Lord, indeed I am weak"
+      }
+    },
+    {
+      "start": 3173,
+      "text": "فَقَوِّنِي، وَإِنِّي فَقِيرٌ",
+      "translation": {
+        "id": "maka kuatkanlah aku, dan sungguh aku fakir",
+        "en": "so strengthen me, and indeed I am poor"
+      }
+    },
+    {
+      "start": 3180,
+      "text": "فَأَغْنِنِي، وَإِنِّي حَزِينٌ",
+      "translation": {
+        "id": "maka cukupkanlah aku, dan sungguh aku bersedih",
+        "en": "so enrich me, and indeed I am grieved"
+      }
+    },
+    {
+      "start": 3187,
+      "text": "فَسَلِّ قَلْبِي يَا رَحْمَٰنُ يَا رَحِيمُ يَا لَطِيفُ يَا خَبِيرُ يَا جَبَّارُ",
+      "translation": {
+        "id": "maka hiburlah hatiku, wahai Maha Pengasih, wahai Maha Penyayang, wahai Maha Lembut, wahai Maha Mengetahui, wahai Maha Perkasa",
+        "en": "so console my heart, O Most Gracious, O Most Merciful, O Most Subtle, O All-Aware, O Compeller"
+      }
+    },
+    {
+      "start": 3199,
+      "text": "اجْبُرْ كَسْرَ قَلْبِي وَيَا قَرِيبُ اقْتَرِبْ",
+      "translation": {
+        "id": "perbaikilah keretakan hatiku, dan wahai Yang Maha Dekat, mendekatlah",
+        "en": "mend the brokenness of my heart, and O Near One, draw near"
+      }
+    },
+    {
+      "start": 3206,
+      "text": "مِنِّي، اللَّهُمَّ إِنِّي",
+      "translation": {
+        "id": "kepadaku. Ya Allah, sungguh aku...",
+        "en": "to me. O Allah, indeed I..."
+      }
+    },
+    {
+      "start": 3214,
+      "text": "أَشْكُو إِلَيْكَ",
+      "translation": {
+        "id": "mengadu kepada-Mu",
+        "en": "complain to You"
+      }
+    }
+  ]
+}
